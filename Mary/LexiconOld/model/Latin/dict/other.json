@@ -1,0 +1,251 @@
+[
+  {
+    "id": "-ne",
+    "PoS": "particle",
+    "defs": [
+      "?"
+    ]
+  },
+  {
+    "id": "ā",
+    "PoS": "preposition",
+    "defs": [
+      "by",
+      "from"
+    ]
+  },
+  {
+    "id": "certē",
+    "PoS": "adverb",
+    "defs": [
+      "certainly",
+      "surely"
+    ]
+  },
+  {
+    "id": "cum",
+    "PoS": "preposition",
+    "defs": [
+      "with"
+    ]
+  },
+  {
+    "id": "decem",
+    "PoS": "number",
+    "defs": [
+      "ten"
+    ]
+  },
+  {
+    "id": "duo",
+    "PoS": "number",
+    "defs": [
+      "two"
+    ]
+  },
+  {
+    "id": "et",
+    "PoS": "conjunction",
+    "defs": [
+      "and"
+    ]
+  },
+  {
+    "id": "forte",
+    "PoS": "adverb",
+    "defs": [
+      "by chance",
+      "accidentally",
+      "by happenstance"
+    ]
+  },
+  {
+    "id": "fortiter",
+    "PoS": "adverb",
+    "defs": [
+      "bravely",
+      "valiantly"
+    ]
+  },
+  {
+    "id": "hodiē",
+    "PoS": "adverb",
+    "defs": [
+      "today"
+    ]
+  },
+  {
+    "id": "iam",
+    "PoS": "adverb",
+    "defs": [
+      "already"
+    ]
+  },
+  {
+    "id": "in",
+    "PoS": "preposition",
+    "defs": [
+      "in"
+    ]
+  },
+  {
+    "id": "interdum",
+    "PoS": "adverb",
+    "defs": [
+      "sometimes"
+    ]
+  },
+  {
+    "id": "mē",
+    "PoS": "pronoun",
+    "defs": [
+      "me"
+    ]
+  },
+  {
+    "id": "nam",
+    "PoS": "conjunction",
+    "defs": [
+      "for"
+    ]
+  },
+  {
+    "id": "nōn",
+    "PoS": "adverb",
+    "defs": [
+      "not"
+    ]
+  },
+  {
+    "id": "nōn-ne",
+    "PoS": "adverb",
+    "defs": [
+      "not?"
+    ]
+  },
+  {
+    "id": "num",
+    "PoS": "particle",
+    "defs": [
+      "?"
+    ]
+  },
+  {
+    "id": "nunc",
+    "PoS": "adverb",
+    "defs": [
+      "now"
+    ]
+  },
+  {
+    "id": "nunquam",
+    "PoS": "adverb",
+    "defs": [
+      "never"
+    ]
+  },
+  {
+    "id": "quae",
+    "PoS": "interrogative pronoun",
+    "defs": [
+      "what?"
+    ]
+  },
+  {
+    "id": "quem",
+    "PoS": "interrogative pronoun",
+    "gender": "m",
+    "defs": [
+      "whom?"
+    ]
+  },
+  {
+    "id": "quid",
+    "PoS": "interrogative pronoun",
+    "gender": "n",
+    "defs": [
+      "what?"
+    ]
+  },
+  {
+    "id": "quis",
+    "PoS": "interrogative pronoun",
+    "defs": [
+      "who?"
+    ]
+  },
+  {
+    "id": "saepe",
+    "PoS": "adverb",
+    "defs": [
+      "often",
+      "frequently",
+      "usually"
+    ]
+  },
+  {
+    "id": "sē",
+    "PoS": "pronoun",
+    "defs": [
+      "himself"
+    ]
+  },
+  {
+    "id": "sed",
+    "PoS": "conjunction",
+    "defs": [
+      "but"
+    ]
+  },
+  {
+    "id": "semper",
+    "PoS": "adverb",
+    "defs": [
+      "always",
+      "ever",
+      "forever"
+    ]
+  },
+  {
+    "id": "studiōsē",
+    "PoS": "adverb",
+    "defs": [
+      "studiously",
+      "zealously"
+    ]
+  },
+  {
+    "id": "tē",
+    "PoS": "pronoun",
+    "defs": [
+      "thee",
+      "you"
+    ]
+  },
+  {
+    "id": "ubī",
+    "PoS": "adverb",
+    "defs": [
+      "where?"
+    ]
+  },
+  {
+    "id": "valdē",
+    "PoS": "adverb",
+    "defs": [
+      "greatly",
+      "very",
+      "very much",
+      "exceedingly"
+    ]
+  },
+  {
+    "id": "valē",
+    "PoS": "interjection",
+    "defs": [
+      "farewell",
+      "goodbye",
+      "good bye"
+    ]
+  }
+]

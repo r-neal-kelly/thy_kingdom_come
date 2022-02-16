@@ -1,0 +1,1133 @@
+[
+  {
+    "nominative": "aetās",
+    "genitive": "aetātis",
+    "declension": "3",
+    "gender": "f",
+    "defs": [
+      "age"
+    ]
+  },
+  {
+    "nominative": "ager",
+    "genitive": "agrī",
+    "declension": "2",
+    "gender": "m",
+    "defs": [
+      "field"
+    ]
+  },
+  {
+    "nominative": "agricola",
+    "genitive": "agricolae",
+    "declension": "1",
+    "gender": "m",
+    "defs": [
+      "farmer",
+      "husbandman",
+      "cultivator",
+      "plowman",
+      "countryman"
+    ]
+  },
+  {
+    "nominative": "āla, ala",
+    "genitive": "ālae, alae",
+    "declension": "1",
+    "gender": "f",
+    "defs": [
+      "wing"
+    ]
+  },
+  {
+    "nominative": "amīcus",
+    "genitive": "amīcī",
+    "declension": "2",
+    "gender": "m",
+    "defs": [
+      "friend"
+    ]
+  },
+  {
+    "nominative": "annus",
+    "genitive": "annī",
+    "declension": "2",
+    "gender": "m",
+    "defs": [
+      "year"
+    ]
+  },
+  {
+    "nominative": "aqua",
+    "genitive": "aquae",
+    "declension": "1",
+    "gender": "f",
+    "defs": [
+      "water"
+    ]
+  },
+  {
+    "nominative": "auctōritās",
+    "genitive": "auctōritātis",
+    "declension": "3",
+    "gender": "f",
+    "defs": [
+      "authority",
+      "influence"
+    ]
+  },
+  {
+    "nominative": "avus",
+    "genitive": "avī",
+    "declension": "2",
+    "gender": "m",
+    "defs": [
+      "grandfather"
+    ]
+  },
+  {
+    "nominative": "bellum",
+    "genitive": "bellī",
+    "declension": "2",
+    "gender": "n",
+    "defs": [
+      "war"
+    ]
+  },
+  {
+    "nominative": "caput",
+    "genitive": "capitis",
+    "declension": "3",
+    "gender": "n",
+    "defs": [
+      "head"
+    ]
+  },
+  {
+    "nominative": "carmen",
+    "genitive": "carminis",
+    "declension": "3",
+    "gender": "n",
+    "defs": [
+      "song",
+      "poem"
+    ]
+  },
+  {
+    "nominative": "causa",
+    "genitive": "causae",
+    "declension": "1",
+    "gender": "f",
+    "defs": [
+      "cause",
+      "reason",
+      "motive"
+    ]
+  },
+  {
+    "nominative": "cīvitās",
+    "genitive": "cīvitātis",
+    "declension": "3",
+    "gender": "f",
+    "defs": [
+      "state"
+    ]
+  },
+  {
+    "nominative": "clāmor",
+    "genitive": "clāmōris",
+    "declension": "3",
+    "gender": "m",
+    "defs": [
+      "shout",
+      "shouting",
+      "cry"
+    ]
+  },
+  {
+    "nominative": "colloquium",
+    "genitive": "colloquiī",
+    "declension": "2",
+    "gender": "n",
+    "defs": [
+      "dialogue",
+      "conversation"
+    ]
+  },
+  {
+    "nominative": "color",
+    "genitive": "colōris",
+    "declension": "3",
+    "gender": "m",
+    "defs": [
+      "color"
+    ]
+  },
+  {
+    "nominative": "con-discipulus",
+    "genitive": "con-discipulī",
+    "declension": "2",
+    "gender": "m",
+    "defs": [
+      "school-mate",
+      "co-student",
+      "co-learner",
+      "co-pupil"
+    ]
+  },
+  {
+    "nominative": "cōnsul",
+    "genitive": "cōnsulis",
+    "declension": "3",
+    "gender": "m",
+    "defs": [
+      "consul"
+    ]
+  },
+  {
+    "nominative": "contentiō",
+    "genitive": "contentiōnis",
+    "gender": "f",
+    "declension": "3",
+    "defs": [
+      "strife",
+      "quarrel"
+    ]
+  },
+  {
+    "nominative": "corōna",
+    "genitive": "corōnae",
+    "declension": "1",
+    "gender": "f",
+    "defs": [
+      "wreath",
+      "garland",
+      "crown"
+    ]
+  },
+  {
+    "nominative": "corpus",
+    "genitive": "corporis",
+    "declension": "3",
+    "gender": "n",
+    "defs": [
+      "body"
+    ]
+  },
+  {
+    "nominative": "cūstōs",
+    "genitive": "cūstōdis",
+    "declension": "3",
+    "gender": "m",
+    "defs": [
+      "keeper",
+      "guard",
+      "guardian"
+    ]
+  },
+  {
+    "nominative": "dīligentia",
+    "genitive": "dīligentiae",
+    "declension": "1",
+    "gender": "f",
+    "defs": [
+      "diligence",
+      "industry",
+      "carefulness",
+      "attentiveness",
+      "earnestness"
+    ]
+  },
+  {
+    "nominative": "discipulus",
+    "genitive": "discipulī",
+    "declension": "2",
+    "gender": "m",
+    "defs": [
+      "pupil",
+      "learner",
+      "student",
+      "scholar"
+    ]
+  },
+  {
+    "nominative": "dominus",
+    "genitive": "dominī",
+    "declension": "2",
+    "gender": "m",
+    "defs": [
+      "master",
+      "owner",
+      "lord",
+      "ruler"
+    ]
+  },
+  {
+    "nominative": "dōnum",
+    "genitive": "dōnī",
+    "declension": "2",
+    "gender": "n",
+    "defs": [
+      "gift",
+      "present"
+    ]
+  },
+  {
+    "nominative": "dux",
+    "genitive": "ducis",
+    "declension": "3",
+    "gender": "m,f",
+    "defs": [
+      "leader",
+      "commander"
+    ]
+  },
+  {
+    "nominative": "epistola, epistula",
+    "genitive": "epistolae, epistulae",
+    "declension": "1",
+    "gender": "f",
+    "defs": [
+      "letter",
+      "epistle"
+    ]
+  },
+  {
+    "nominative": "eques",
+    "genitive": "equitis",
+    "declension": "3",
+    "gender": "m",
+    "defs": [
+      "horseman",
+      "trooper",
+      "knight"
+    ]
+  },
+  {
+    "nominative": "equus",
+    "genitive": "equī",
+    "declension": "2",
+    "gender": "m",
+    "defs": [
+      "horse"
+    ]
+  },
+  {
+    "nominative": "fābula",
+    "genitive": "fābulae",
+    "declension": "1",
+    "gender": "f",
+    "defs": [
+      "story",
+      "tale",
+      "fable"
+    ]
+  },
+  {
+    "nominative": "fīlia",
+    "genitive": "fīliae",
+    "declension": "1",
+    "gender": "f",
+    "defs": [
+      "daughter"
+    ]
+  },
+  {
+    "nominative": "fīlius",
+    "genitive": "fīliī",
+    "declension": "2",
+    "gender": "m",
+    "defs": [
+      "son"
+    ]
+  },
+  {
+    "nominative": "flōs",
+    "genitive": "flōris",
+    "declension": "3",
+    "gender": "m",
+    "defs": [
+      "flower"
+    ]
+  },
+  {
+    "nominative": "fortūna",
+    "genitive": "fortūnae",
+    "declension": "1",
+    "gender": "f",
+    "defs": [
+      "chance",
+      "luck",
+      "fate",
+      "fortune"
+    ]
+  },
+  {
+    "nominative": "fossa",
+    "genitive": "fossae",
+    "declension": "1",
+    "gender": "f",
+    "defs": [
+      "ditch",
+      "trench"
+    ]
+  },
+  {
+    "nominative": "frāter",
+    "genitive": "frātris",
+    "declension": "3",
+    "gender": "m",
+    "defs": [
+      "brother"
+    ]
+  },
+  {
+    "nominative": "fuga",
+    "genitive": "fugae",
+    "declension": "1",
+    "gender": "f",
+    "defs": [
+      "flight"
+    ]
+  },
+  {
+    "nominative": "fundus",
+    "genitive": "fundī",
+    "declension": "2",
+    "gender": "m",
+    "defs": [
+      "farm",
+      "estate"
+    ]
+  },
+  {
+    "nominative": "fūrtum",
+    "genitive": "fūrtī",
+    "gender": "n",
+    "declension": "2",
+    "defs": [
+      "theft",
+      "stealing"
+    ]
+  },
+  {
+    "nominative": "gener",
+    "genitive": "generī",
+    "declension": "2",
+    "gender": "m",
+    "defs": [
+      "son-in-law",
+      "son in law"
+    ]
+  },
+  {
+    "nominative": "genus",
+    "genitive": "generis",
+    "declension": "3",
+    "gender": "n",
+    "defs": [
+      "race",
+      "kind",
+      "class"
+    ]
+  },
+  {
+    "nominative": "grāmen",
+    "genitive": "grāminis",
+    "gender": "n",
+    "declension": "3",
+    "defs": [
+      "grass"
+    ]
+  },
+  {
+    "nominative": "homō",
+    "genitive": "hominis",
+    "declension": "3",
+    "gender": "m",
+    "defs": [
+      "man",
+      "human being"
+    ]
+  },
+  {
+    "nominative": "hortus",
+    "genitive": "hortī",
+    "declension": "2",
+    "gender": "m",
+    "defs": [
+      "garden",
+      "ground"
+    ]
+  },
+  {
+    "nominative": "hospes",
+    "genitive": "hospitis",
+    "declension": "3",
+    "gender": "m,f",
+    "defs": [
+      "guest",
+      "visitor"
+    ]
+  },
+  {
+    "nominative": "imperātor",
+    "genitive": "imperātōris",
+    "declension": "3",
+    "gender": "m",
+    "defs": [
+      "commander",
+      "general"
+    ]
+  },
+  {
+    "nominative": "incola",
+    "genitive": "incolae",
+    "declension": "1",
+    "gender": "f",
+    "defs": [
+      "inhabitant",
+      "resident"
+    ]
+  },
+  {
+    "nominative": "īnsula",
+    "genitive": "īnsulae",
+    "declension": "1",
+    "gender": "f",
+    "defs": [
+      "island"
+    ]
+  },
+  {
+    "nominative": "iūdex",
+    "genitive": "iūdicis",
+    "declension": "3",
+    "gender": "m,f",
+    "defs": [
+      "judge"
+    ]
+  },
+  {
+    "nominative": "iūs",
+    "genitive": "iūris",
+    "declension": "3",
+    "gender": "n",
+    "defs": [
+      "right"
+    ]
+  },
+  {
+    "nominative": "lapis",
+    "genitive": "lapidis",
+    "declension": "3",
+    "gender": "m",
+    "defs": [
+      "stone"
+    ]
+  },
+  {
+    "nominative": "laus",
+    "genitive": "laudis",
+    "declension": "3",
+    "gender": "f",
+    "defs": [
+      "praise",
+      "commendation"
+    ]
+  },
+  {
+    "nominative": "leō",
+    "genitive": "leōnis",
+    "declension": "3",
+    "gender": "m",
+    "defs": [
+      "lion"
+    ]
+  },
+  {
+    "nominative": "lēx",
+    "genitive": "lēgis",
+    "declension": "3",
+    "gender": "f",
+    "defs": [
+      "law"
+    ]
+  },
+  {
+    "nominative": "liber",
+    "genitive": "librī",
+    "declension": "2",
+    "gender": "m",
+    "defs": [
+      "book"
+    ]
+  },
+  {
+    "nominative": "lībertās",
+    "genitive": "lībertātis",
+    "declension": "3",
+    "gender": "f",
+    "defs": [
+      "freedom",
+      "liberty"
+    ]
+  },
+  {
+    "nominative": "lingua",
+    "genitive": "linguae",
+    "declension": "1",
+    "gender": "f",
+    "defs": [
+      "language",
+      "tongue"
+    ]
+  },
+  {
+    "nominative": "lūcus",
+    "genitive": "lūcī",
+    "declension": "2",
+    "gender": "m",
+    "defs": [
+      "grove",
+      "sacred grove"
+    ]
+  },
+  {
+    "nominative": "lūdus",
+    "genitive": "lūdī",
+    "declension": "2",
+    "gender": "m",
+    "defs": [
+      "game",
+      "play"
+    ]
+  },
+  {
+    "nominative": "magister",
+    "genitive": "magistrī",
+    "declension": "2",
+    "gender": "m",
+    "defs": [
+      "master",
+      "teacher"
+    ]
+  },
+  {
+    "nominative": "mālum",
+    "genitive": "mālī",
+    "declension": "2",
+    "gender": "n",
+    "defs": [
+      "apple"
+    ]
+  },
+  {
+    "nominative": "māter",
+    "genitive": "mātris",
+    "declension": "3",
+    "gender": "f",
+    "defs": [
+      "mother"
+    ]
+  },
+  {
+    "nominative": "medicus",
+    "genitive": "medicī",
+    "declension": "2",
+    "gender": "m",
+    "defs": [
+      "physician",
+      "surgeon",
+      "doctor"
+    ]
+  },
+  {
+    "nominative": "mēnsa, mensa",
+    "genitive": "mēnsae, mensae",
+    "declension": "1",
+    "gender": "f",
+    "defs": [
+      "table",
+      "counter"
+    ]
+  },
+  {
+    "nominative": "mercātor",
+    "genitive": "mercātōris",
+    "declension": "3",
+    "gender": "m",
+    "defs": [
+      "merchant",
+      "trader"
+    ]
+  },
+  {
+    "nominative": "mīles",
+    "genitive": "mīlitis",
+    "declension": "3",
+    "gender": "m",
+    "defs": [
+      "soldier"
+    ]
+  },
+  {
+    "nominative": "mōs",
+    "genitive": "mōris",
+    "declension": "3",
+    "gender": "m",
+    "defs": [
+      "custom",
+      "manner"
+    ]
+  },
+  {
+    "nominative": "mulier",
+    "genitive": "mulieris",
+    "declension": "3",
+    "gender": "f",
+    "defs": [
+      "woman"
+    ]
+  },
+  {
+    "nominative": "multitūdō",
+    "genitive": "multitūdinis",
+    "gender": "f",
+    "declension": "3",
+    "defs": [
+      "multitude",
+      "great number"
+    ]
+  },
+  {
+    "nominative": "mūrus",
+    "genitive": "mūrī",
+    "declension": "2",
+    "gender": "m",
+    "defs": [
+      "wall"
+    ]
+  },
+  {
+    "nominative": "nauta",
+    "genitive": "nautae",
+    "declension": "1",
+    "gender": "m",
+    "defs": [
+      "sailor",
+      "mariner",
+      "seaman"
+    ]
+  },
+  {
+    "nominative": "nepōs",
+    "genitive": "nepōtis",
+    "declension": "3",
+    "gender": "m",
+    "defs": [
+      "grandson"
+    ]
+  },
+  {
+    "nominative": "odor",
+    "genitive": "odōris",
+    "declension": "3",
+    "gender": "m",
+    "defs": [
+      "odor",
+      "perfume"
+    ]
+  },
+  {
+    "nominative": "oppidum",
+    "genitive": "oppidī",
+    "declension": "2",
+    "gender": "n",
+    "defs": [
+      "town",
+      "city"
+    ]
+  },
+  {
+    "nominative": "opus",
+    "genitive": "operis",
+    "declension": "3",
+    "gender": "n",
+    "defs": [
+      "work"
+    ]
+  },
+  {
+    "nominative": "ōrātiō",
+    "genitive": "ōrātiōnis",
+    "declension": "3",
+    "gender": "f",
+    "defs": [
+      "oration"
+    ]
+  },
+  {
+    "nominative": "ōrātor",
+    "genitive": "ōrātōris",
+    "declension": "3",
+    "gender": "m",
+    "defs": [
+      "orator"
+    ]
+  },
+  {
+    "nominative": "passer",
+    "genitive": "passeris",
+    "declension": "3",
+    "gender": "m",
+    "defs": [
+      "sparrow"
+    ]
+  },
+  {
+    "nominative": "pāstor",
+    "genitive": "pāstōris",
+    "declension": "3",
+    "gender": "m",
+    "defs": [
+      "shepherd"
+    ]
+  },
+  {
+    "nominative": "pater",
+    "genitive": "patris",
+    "declension": "3",
+    "gender": "m",
+    "defs": [
+      "father"
+    ]
+  },
+  {
+    "nominative": "patria",
+    "genitive": "patriae",
+    "declension": "1",
+    "gender": "f",
+    "defs": [
+      "homeland",
+      "fatherland",
+      "country"
+    ]
+  },
+  {
+    "nominative": "pāx",
+    "genitive": "pācis",
+    "declension": "3",
+    "gender": "f",
+    "defs": [
+      "peace"
+    ]
+  },
+  {
+    "nominative": "perīculum",
+    "genitive": "perīculī",
+    "declension": "2",
+    "gender": "n",
+    "defs": [
+      "danger",
+      "peril",
+      "risk",
+      "hazard"
+    ]
+  },
+  {
+    "nominative": "pirum",
+    "genitive": "pirī",
+    "declension": "2",
+    "gender": "n",
+    "defs": [
+      "pear"
+    ]
+  },
+  {
+    "nominative": "poena",
+    "genitive": "poenae",
+    "gender": "f",
+    "declension": "1",
+    "defs": [
+      "satisfaction",
+      "punishment"
+    ]
+  },
+  {
+    "nominative": "poēta",
+    "genitive": "poētae",
+    "declension": "1",
+    "gender": "m",
+    "defs": [
+      "poet"
+    ]
+  },
+  {
+    "nominative": "praeceptor",
+    "genitive": "praeceptōris",
+    "declension": "3",
+    "gender": "m",
+    "defs": [
+      "instructor",
+      "preceptor"
+    ]
+  },
+  {
+    "nominative": "praemium",
+    "genitive": "praemiī",
+    "declension": "2",
+    "gender": "n",
+    "defs": [
+      "reward",
+      "premium",
+      "prize"
+    ]
+  },
+  {
+    "nominative": "prīnceps",
+    "genitive": "prīncipis",
+    "declension": "3",
+    "gender": "m",
+    "defs": [
+      "chieftain",
+      "leader",
+      "prince",
+      "chief"
+    ]
+  },
+  {
+    "nominative": "puella",
+    "genitive": "puellae",
+    "declension": "1",
+    "gender": "f",
+    "defs": [
+      "girl",
+      "maiden",
+      "lass"
+    ]
+  },
+  {
+    "nominative": "puer",
+    "genitive": "puerī",
+    "declension": "2",
+    "gender": "m",
+    "defs": [
+      "boy"
+    ]
+  },
+  {
+    "nominative": "rādīx",
+    "genitive": "rādīcis",
+    "declension": "3",
+    "gender": "f",
+    "defs": [
+      "root"
+    ]
+  },
+  {
+    "nominative": "rēgīna",
+    "genitive": "rēgīnae",
+    "declension": "1",
+    "gender": "f",
+    "defs": [
+      "queen"
+    ]
+  },
+  {
+    "nominative": "rēx",
+    "genitive": "rēgis",
+    "declension": "3",
+    "gender": "m",
+    "defs": [
+      "king"
+    ]
+  },
+  {
+    "nominative": "salūs",
+    "genitive": "salūtis",
+    "declension": "3",
+    "gender": "f",
+    "defs": [
+      "safety"
+    ]
+  },
+  {
+    "nominative": "scrīptor",
+    "genitive": "scrīptōris",
+    "declension": "3",
+    "gender": "m",
+    "defs": [
+      "writer",
+      "author"
+    ]
+  },
+  {
+    "nominative": "sermō",
+    "genitive": "sermōnis",
+    "declension": "3",
+    "gender": "m",
+    "defs": [
+      "discourse",
+      "conversation"
+    ]
+  },
+  {
+    "nominative": "servus",
+    "genitive": "servī",
+    "declension": "2",
+    "gender": "m",
+    "defs": [
+      "slave",
+      "servant"
+    ]
+  },
+  {
+    "nominative": "socer",
+    "genitive": "socerī",
+    "declension": "2",
+    "gender": "m",
+    "defs": [
+      "father-in-law",
+      "father in law"
+    ]
+  },
+  {
+    "nominative": "soror",
+    "genitive": "sorōris",
+    "declension": "3",
+    "gender": "f",
+    "defs": [
+      "sister"
+    ]
+  },
+  {
+    "nominative": "statua",
+    "genitive": "statuae",
+    "declension": "1",
+    "gender": "f",
+    "defs": [
+      "statue"
+    ]
+  },
+  {
+    "nominative": "taurus",
+    "genitive": "taurī",
+    "declension": "2",
+    "gender": "m",
+    "defs": [
+      "bull",
+      "bullock"
+    ]
+  },
+  {
+    "nominative": "templum",
+    "genitive": "templī",
+    "declension": "2",
+    "gender": "n",
+    "defs": [
+      "temple"
+    ]
+  },
+  {
+    "nominative": "tempus",
+    "genitive": "temporis",
+    "declension": "3",
+    "gender": "n",
+    "defs": [
+      "time",
+      "season"
+    ]
+  },
+  {
+    "nominative": "tergum",
+    "genitive": "tergī",
+    "gender": "n",
+    "declension": "2",
+    "defs": [
+      "back"
+    ]
+  },
+  {
+    "nominative": "verbum",
+    "genitive": "verbī",
+    "declension": "2",
+    "gender": "n",
+    "defs": [
+      "word",
+      "verb"
+    ]
+  },
+  {
+    "nominative": "via",
+    "genitive": "viae",
+    "declension": "1",
+    "gender": "f",
+    "defs": [
+      "way",
+      "road",
+      "street",
+      "path"
+    ]
+  },
+  {
+    "nominative": "vīctor",
+    "genitive": "vīctōris",
+    "declension": "3",
+    "gender": "m",
+    "defs": [
+      "conqueror",
+      "victor"
+    ]
+  },
+  {
+    "nominative": "vīcus",
+    "genitive": "vīcī",
+    "declension": "2",
+    "gender": "m",
+    "defs": [
+      "village",
+      "ward"
+    ]
+  },
+  {
+    "nominative": "vir",
+    "genitive": "virī",
+    "declension": "2",
+    "gender": "m",
+    "defs": [
+      "man",
+      "true man",
+      "hero"
+    ]
+  },
+  {
+    "nominative": "virgō",
+    "genitive": "virginis",
+    "declension": "3",
+    "gender": "f",
+    "defs": [
+      "maiden"
+    ]
+  },
+  {
+    "nominative": "virtūs",
+    "genitive": "virtūtis",
+    "declension": "3",
+    "gender": "f",
+    "defs": [
+      "virtue",
+      "valor",
+      "bravery"
+    ]
+  },
+  {
+    "nominative": "vulnus",
+    "genitive": "vulneris",
+    "declension": "3",
+    "gender": "n",
+    "defs": [
+      "wound"
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=FontDownloads
+  AbyssinicaSIL
+  Alkalami
+  Andika
+  Awami Nastaliq
+  CharisSIL
+  DoulosSIL
+  EzraSIL
+  GalatiaSIL
+  GentiumPlus
+  Harmattan
+  Lateef
+  Scheherazade
+
+http://culmus.sourceforge.net/ancient/
+  Ancient Semitic Fonts
+
+http://www.senamirmir.org/projects/typography/washra.html
+  Washra 4.1 fonts
+
+http://unifraktur.sourceforge.net/
+  Unifraktur Cook and Maguntia
+
+https://www.atour.com/fonts/
+  Estrangelo
+
+https://www.google.com/get/noto/
+  Noto
+
+https://fonts.google.com/specimen/Merriweather
+  Merriweather
+
+https://fontlibrary.org/
+  Orkney
+  Coelacanth
+  Miedinger

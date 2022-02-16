@@ -1,0 +1,1718 @@
+[ { "id": "corōna, corōnae, f."
+  , "defs": ["wreath", "garland", "crown"]
+  , "PoS": "noun"
+  , "gender": "f"
+  , "declension": 1
+  , "lesson": 1
+  }
+, { "id": "epistula, epistulae, f."
+  , "defs": ["letter", "epistle"]
+  , "gender": "f"
+  , "PoS": "noun"
+  , "lesson": 1
+  }
+, { "id": "fābula, fābulae, f."
+  , "defs": ["story", "tale", "fable"]
+  , "gender": "f"
+  , "PoS": "noun"
+  , "lesson": 1
+  }
+, { "id": "poēta, poētae, m."
+  , "defs": ["poet"]
+  , "gender": "m"
+  , "PoS": "noun"
+  , "lesson": 1
+  }
+, { "id": "puella, puellae, f."
+  , "defs": ["girl", "maiden"]
+  , "gender": "f"
+  , "PoS": "noun"
+  , "lesson": 1
+  }
+, { "id": "rēgīna, rēgīnae, f."
+  , "defs": ["queen"]
+  , "gender": "f"
+  , "PoS": "noun"
+  , "lesson": 1
+  }
+, { "id": "amat"
+  , "defs": ["loves"]
+  , "PoS": "verb"
+  , "lesson": 1
+  }
+, { "id": "dēlectat"
+  , "defs": ["delights", "pleases"]
+  , "PoS": "verb"
+  , "lesson": 1
+  }
+, { "id": "laudat"
+  , "defs": ["praises"]
+  , "PoS": "verb"
+  , "lesson": 1
+  }
+
+, { "id": "mēnsa, mēnsae, f."
+  , "defs": ["table"]
+  , "gender": "f"
+  , "PoS": "noun"
+  , "lesson": 3
+  }
+, { "id": "ala, alae, f."
+  , "defs": ["wing"]
+  , "gender": "f"
+  , "PoS": "noun"
+  , "lesson": 3
+  }
+, { "id": "aqua, aquae, f."
+  , "defs": ["water"]
+  , "gender": "f"
+  , "PoS": "noun"
+  , "lesson": 3
+  }
+, { "id": "causa, causae, f."
+  , "defs": ["cause"]
+  , "gender": "f"
+  , "PoS": "noun"
+  , "lesson": 3
+  }
+, { "id": "fortūna, fortūnae, f."
+  , "defs": ["fortune"]
+  , "gender": "f"
+  , "PoS": "noun"
+  , "lesson": 3
+  }
+
+, { "id": "agricola, agricolae, m."
+  , "defs": ["farmer", "husbandman"]
+  , "gender": "m"
+  , "PoS": "noun"
+  , "lesson": 4
+  }
+, { "id": "dīligentia, dīligentiae, f."
+  , "defs": ["diligence", "industry"]
+  , "gender": "f"
+  , "PoS": "noun"
+  , "lesson": 4
+  }
+, { "id": "fīlia, fīliae, f."
+  , "defs": ["daughter"]
+  , "gender": "f"
+  , "PoS": "noun"
+  , "lesson": 4
+  }
+, { "id": "nauta, nautae, m."
+  , "defs": ["sailor", "mariner"]
+  , "gender": "m"
+  , "PoS": "noun"
+  , "lesson": 4
+  }
+, { "id": "patria, patriae, f."
+  , "defs": ["one's country", "native land", "fatherland", "homeland"]
+  , "gender": "f"
+  , "PoS": "noun"
+  , "lesson": 4
+  }
+, { "id": "Cornēlia, Cornēliae, f."
+  , "defs": ["Cornelia"]
+  , "gender": "f"
+  , "PoS": "proper noun"
+  , "lesson": 4
+  }
+, { "id": "Iūlia, Iūliae, f."
+  , "defs": ["Julia"]
+  , "gender": "f"
+  , "PoS": "proper noun"
+  , "lesson": 4
+  }
+, { "id": "Tullia, Tulliae, f."
+  , "defs": ["Tullia"]
+  , "gender": "f"
+  , "PoS": "proper noun"
+  , "lesson": 4
+  }
+, { "id": "Vīctōria, Vīctōriae, f."
+  , "defs": ["Victoria"]
+  , "gender": "f"
+  , "PoS": "proper noun"
+  , "lesson": 4
+  }
+, { "id": "ambulat"
+  , "defs": ["walks"]
+  , "PoS": "verb"
+  , "lesson": 4
+  }
+, { "id": "cantat"
+  , "defs": ["sings"]
+  , "PoS": "verb"
+  , "lesson": 4
+  }
+
+, { "id": "Amelia, Ameliae, f."
+  , "defs": ["Amelia"]
+  , "gender": "f"
+  , "PoS": "proper noun"
+  , "lesson": 5
+  }
+, { "id": "Lāvīnia, Lāvīniae, f."
+  , "defs": ["Lavinia"]
+  , "gender": "f"
+  , "PoS": "proper noun"
+  , "lesson": 5
+  }
+, { "id": "Graecia, Graeciae, f."
+  , "defs": ["Greece"]
+  , "gender": "f"
+  , "PoS": "proper noun"
+  , "lesson": 5
+  }
+, { "id": "Ītalia, Ītaliae, f."
+  , "defs": ["Italy"]
+  , "gender": "f"
+  , "PoS": "proper noun"
+  , "lesson": 5
+  }
+, { "id": "exspectat"
+  , "defs": ["expects", "waits for"]
+  , "PoS": "verb"
+  , "lesson": 5
+  }
+, { "id": "nōn"
+  , "defs": ["not"]
+  , "PoS": "adverb"
+  , "lesson": 5
+  }
+, { "id": "nōn-ne"
+  , "defs": ["not?"]
+  , "PoS": "adverb"
+  , "lesson": 5
+  }
+, { "id": "nunc"
+  , "defs": ["now"]
+  , "PoS": "adverb"
+  , "lesson": 5
+  }
+, { "id": "saepe"
+  , "defs": ["often", "frequently"]
+  , "PoS": "adverb"
+  , "lesson": 5
+  }
+, { "id": "semper"
+  , "defs": ["always", "ever", "forever"]
+  , "PoS": "adverb"
+  , "lesson": 5
+  }
+, { "id": "quis"
+  , "defs": ["who?"]
+  , "PoS": "interrogative pronoun"
+  , "lesson": 5
+  }
+
+, { "id": "dominus, dominī, m."
+  , "defs": ["master", "owner"]
+  , "gender": "m"
+  , "PoS": "noun"
+  , "lesson": 7
+  }
+, { "id": "amīcus, amīcī, m."
+  , "defs": ["friend"]
+  , "gender": "m"
+  , "PoS": "noun"
+  , "lesson": 7
+  }
+, { "id": "lūdus, lūdī, m."
+  , "defs": ["game", "play"]
+  , "gender": "m"
+  , "PoS": "noun"
+  , "lesson": 7
+  }
+, { "id": "medicus, medicī, m."
+  , "defs": ["physician", "doctor"]
+  , "gender": "m"
+  , "PoS": "noun"
+  , "lesson": 7
+  }
+, { "id": "servus, servī, m."
+  , "defs": ["slave", "servant"]
+  , "gender": "m"
+  , "PoS": "noun"
+  , "lesson": 7
+  }
+, { "id": "Albertus, Albertī, m."
+  , "defs": ["Albert"]
+  , "gender": "m"
+  , "PoS": "proper noun"
+  , "lesson": 7
+  }
+, { "id": "Mārcus, Mārcī, m."
+  , "defs": ["Marcus"]
+  , "gender": "m"
+  , "PoS": "proper noun"
+  , "lesson": 7
+  }
+, { "id": "Phīdippus, Phīdippī, m."
+  , "defs": ["Phidippus"]
+  , "gender": "m"
+  , "PoS": "proper noun"
+  , "lesson": 7
+  }
+, { "id": "Titus, Titī, m."
+  , "defs": ["Titus"]
+  , "gender": "m"
+  , "PoS": "proper noun"
+  , "lesson": 7
+  }
+, { "id": "accūsat"
+  , "defs": ["accuses"]
+  , "PoS": "verb"
+  , "lesson": 7
+  }
+
+, { "id": "dōnum, dōnī, n."
+  , "defs": ["gift", "present"]
+  , "gender": "n"
+  , "PoS": "noun"
+  , "lesson": 8
+  }
+, { "id": "oppidum, oppidī, n."
+  , "defs": ["town", "city"]
+  , "gender": "n"
+  , "PoS": "noun"
+  , "lesson": 8
+  }
+, { "id": "perīculum, perīculī, n."
+  , "defs": ["danger", "peril"]
+  , "gender": "n"
+  , "PoS": "noun"
+  , "lesson": 8
+  }
+, { "id": "pirum, pirī, n."
+  , "defs": ["pear"]
+  , "gender": "n"
+  , "PoS": "noun"
+  , "lesson": 8
+  }
+, { "id": "praemium, praemiī, n."
+  , "defs": ["reward", "premium", "prize"]
+  , "gender": "n"
+  , "PoS": "noun"
+  , "lesson": 8
+  }
+, { "id": "templum, templī, n."
+  , "defs": ["temple"]
+  , "gender": "n"
+  , "PoS": "noun"
+  , "lesson": 8
+  }
+, { "id": "incola, incolae, f."
+  , "defs": ["inhabitant"]
+  , "gender": "f"
+  , "PoS": "noun"
+  , "lesson": 8
+  }
+, { "id": "via, viae, f."
+  , "defs": ["way", "road", "street"]
+  , "gender": "f"
+  , "PoS": "noun"
+  , "lesson": 8
+  }
+, { "id": "dat"
+  , "defs": ["gives"]
+  , "PoS": "verb"
+  , "lesson": 8
+  }
+, { "id": "mōnstrat"
+  , "defs": ["shows", "points out"]
+  , "PoS": "verb"
+  , "lesson": 8
+  }
+, { "id": "vītat"
+  , "defs": ["avoids", "shuns"]
+  , "PoS": "verb"
+  , "lesson": 8
+  }
+
+, { "id": "fundus, fundī, m."
+  , "defs": ["farm", "estate"]
+  , "gender": "m"
+  , "PoS": "noun"
+  , "lesson": 9
+  }
+, { "id": "hortus, hortī, m."
+  , "defs": ["garden", "ground"]
+  , "gender": "m"
+  , "PoS": "noun"
+  , "lesson": 9
+  }
+, { "id": "mālum, mālī, n."
+  , "defs": ["apple"]
+  , "gender": "n"
+  , "PoS": "noun"
+  , "lesson": 9
+  }
+, { "id": "statua, statuae, f."
+  , "defs": ["statue"]
+  , "gender": "f"
+  , "PoS": "noun"
+  , "lesson": 9
+  }
+, { "id": "Henrīcus, Henrīcī, m."
+  , "defs": ["Henry"]
+  , "gender": "m"
+  , "PoS": "proper noun"
+  , "lesson": 9
+  }
+, { "id": "Ricardus, Ricardī, m."
+  , "defs": ["Richard"]
+  , "gender": "m"
+  , "PoS": "proper noun"
+  , "lesson": 9
+  }
+, { "id": "Eurōpa, Eurōpae, f."
+  , "defs": ["Europe"]
+  , "gender": "f"
+  , "PoS": "proper noun"
+  , "lesson": 9
+  }
+, { "id": "Virgīnia, Virgīniae, f."
+  , "defs": ["Virginia"]
+  , "gender": "f"
+  , "PoS": "proper noun"
+  , "lesson": 9
+  }
+, { "id": "ubī"
+  , "defs": ["where?"]
+  , "PoS": "adverb"
+  , "lesson": 9
+  }
+, { "id": "et"
+  , "defs": ["and"]
+  , "PoS": "conjunction"
+  , "lesson": 9
+  }
+, { "id": "in"
+  , "defs": ["in"]
+  , "PoS": "preposition"
+  , "lesson": 9
+  }
+, { "id": "habet"
+  , "defs": ["has", "holds"]
+  , "PoS": "verb"
+  , "lesson": 9
+  }
+, { "id": "est"
+  , "defs": ["is"]
+  , "PoS": "verb"
+  , "lesson": 9
+  }
+
+, { "id": "colloquium, colloquiī, n."
+  , "defs": ["dialogue", "conversation"]
+  , "gender": "n"
+  , "PoS": "noun"
+  , "lesson": 10
+  }
+, { "id": "con-discipulus, con-discipulī, m."
+  , "defs": ["school-mate"]
+  , "gender": "m"
+  , "PoS": "noun"
+  , "lesson": 10
+  }
+, { "id": "īnsula, īnsulae, f."
+  , "defs": ["island"]
+  , "gender": "f"
+  , "PoS": "noun"
+  , "lesson": 10
+  }
+, { "id": "vīcus, vīcī, m."
+  , "defs": ["village", "ward"]
+  , "gender": "m"
+  , "PoS": "noun"
+  , "lesson": 10
+  }
+, { "id": "Aetna, Aetnae, f."
+  , "defs": ["Aetna, Mount Aetna"]
+  , "gender": "f"
+  , "PoS": "proper noun"
+  , "lesson": 10
+  }
+, { "id": "Corinthus, Corinthī, f."
+  , "defs": ["Corinth"]
+  , "gender": "f"
+  , "PoS": "proper noun"
+  , "lesson": 10
+  }
+, { "id": "Rōma, Rōmae, f."
+  , "defs": ["Rome"]
+  , "gender": "f"
+  , "PoS": "proper noun"
+  , "lesson": 10
+  }
+, { "id": "Sicilia, Siciliae, f."
+  , "defs": ["Sicily"]
+  , "gender": "f"
+  , "PoS": "proper noun"
+  , "lesson": 10
+  }
+, { "id": "Vesta, Vestae, f."
+  , "defs": ["Vesta"]
+  , "gender": "f"
+  , "PoS": "proper noun"
+  , "lesson": 10
+  }
+, { "id": "certē"
+  , "defs": ["ceratinly", "surely"]
+  , "PoS": "adverb"
+  , "lesson": 10
+  }
+
+, { "id": "aureus, aurea, aureum"
+  , "defs": ["golden", "of gold"]
+  , "PoS": "adjective"
+  , "lesson": 11
+  }
+, { "id": "beātus, beāta, beātum"
+  , "defs": ["happy"]
+  , "PoS": "adjective"
+  , "lesson": 11
+  }
+, { "id": "bonus, bona, bonum"
+  , "defs": ["good"]
+  , "PoS": "adjective"
+  , "lesson": 11
+  }
+, { "id": "clārus, clāra, clārum"
+  , "defs": ["illustrious", "famous"]
+  , "PoS": "adjective"
+  , "lesson": 11
+  }
+, { "id": "doctus, docta, doctum"
+  , "defs": ["learned"]
+  , "PoS": "adjective"
+  , "lesson": 11
+  }
+, { "id": "fīdus, fīda, fīdum"
+  , "defs": ["faithful", "trustworthy", "loyal"]
+  , "PoS": "adjective"
+  , "lesson": 11
+  }
+, { "id": "īgnāvus, īgnāva, īgnāvum"
+  , "defs": ["indolent", "idle", "lazy"]
+  , "PoS": "adjective"
+  , "lesson": 11
+  }
+, { "id": "longus, longa, longum"
+  , "defs": ["long"]
+  , "PoS": "adjective"
+  , "lesson": 11
+  }
+, { "id": "māgnificus, māgnifica, māgnificum"
+  , "defs": ["magnificent", "splendid"]
+  , "PoS": "adjective"
+  , "lesson": 11
+  }
+, { "id": "māgnus, māgna, māgnum"
+  , "defs": ["great", "large"]
+  , "PoS": "adjective"
+  , "lesson": 11
+  }
+, { "id": "meus, mea, meum"
+  , "defs": ["my", "mine"]
+  , "PoS": "adjective"
+  , "lesson": 11
+  }
+, { "id": "multus, multa, multum"
+  , "defs": ["much", "many"]
+  , "PoS": "adjective"
+  , "lesson": 11
+  }
+, { "id": "tuus, tua, tuum"
+  , "defs": ["your", "yours", "thy", "thine"]
+  , "PoS": "adjective"
+  , "lesson": 11
+  }
+
+, { "id": "puer, puerī, m."
+  , "defs": ["boy"]
+  , "gender": "m"
+  , "PoS": "noun"
+  , "lesson": 12
+  }
+, { "id": "vir, virī, m."
+  , "defs": ["man", "true man", "hero"]
+  , "gender": "m"
+  , "PoS": "noun"
+  , "lesson": 12
+  }
+, { "id": "gener, generī, m."
+  , "defs": ["son-in-law"]
+  , "gender": "m"
+  , "PoS": "noun"
+  , "lesson": 12
+  }
+, { "id": "socer, socerī, m."
+  , "defs": ["father-in-law"]
+  , "gender": "m"
+  , "PoS": "noun"
+  , "lesson": 12
+  }
+, { "id": "asper, aspera, asperum"
+  , "defs": ["rough", "hard", "harsh"]
+  , "PoS": "adjective"
+  , "lesson": 12
+  }
+, { "id": "līber, lībera, līberum"
+  , "defs": ["free"]
+  , "PoS": "adjective"
+  , "lesson": 12
+  }
+, { "id": "miser, misera, miserum"
+  , "defs": ["wretched", "unhappy"]
+  , "PoS": "adjective"
+  , "lesson": 12
+  }
+, { "id": "tener, tenera, tenerum"
+  , "defs": ["tender", "young", "delicate"]
+  , "PoS": "adjective"
+  , "lesson": 12
+  }
+, { "id": "avus, avī, m."
+  , "defs": ["grandfather"]
+  , "gender": "m"
+  , "PoS": "noun"
+  , "lesson": 12
+  }
+, { "id": "lūcus, lūcī, m."
+  , "defs": ["grove", "sacred grove"]
+  , "gender": "m"
+  , "PoS": "noun"
+  , "lesson": 12
+  }
+, { "id": "ā, ab"
+  , "defs": ["by", "from"]
+  , "PoS": "preposition"
+  , "lesson": 12
+  }
+, { "id": "cum"
+  , "defs": ["with"]
+  , "PoS": "preposition"
+  , "lesson": 12
+  }
+
+, { "id": "ruber, rubra, rubrum"
+  , "defs": ["red"]
+  , "PoS": "adjective"
+  , "lesson": 13
+  }
+, { "id": "pulcher, pulchra, pulchrum"
+  , "defs": ["beautiful", "pretty"]
+  , "PoS": "adjective"
+  , "lesson": 13
+  }
+, { "id": "aeger, aegra, aegrum"
+  , "defs": ["sick", "ill"]
+  , "PoS": "adjective"
+  , "lesson": 13
+  }
+, { "id": "ager, agrī, m."
+  , "defs": ["field"]
+  , "gender": "m"
+  , "PoS": "noun"
+  , "lesson": 12
+  }
+, { "id": "liber, librī, m."
+  , "defs": ["book"]
+  , "gender": "m"
+  , "PoS": "noun"
+  , "lesson": 13
+  }
+, { "id": "magister, magistrī, m."
+  , "defs": ["master", "teacher"]
+  , "gender": "m"
+  , "PoS": "noun"
+  , "lesson": 13
+  }
+, { "id": "discipulus, discipulī, m."
+  , "defs": ["learner", "pupil", "scholar", "student"]
+  , "gender": "m"
+  , "PoS": "noun"
+  , "lesson": 13
+  }
+, { "id": "equus, equī, m."
+  , "defs": ["horse"]
+  , "gender": "m"
+  , "PoS": "noun"
+  , "lesson": 13
+  }
+, { "id": "Carolus, Carolī, m."
+  , "defs": ["Charles"]
+  , "gender": "m"
+  , "PoS": "proper noun"
+  , "lesson": 13
+  }
+, { "id": "Frederīcus, Frederīcī, m."
+  , "defs": ["Frederick"]
+  , "gender": "m"
+  , "PoS": "proper noun"
+  , "lesson": 13
+  }
+, { "id": "Homērus, Homērī, m."
+  , "defs": ["Homer"]
+  , "gender": "m"
+  , "PoS": "proper noun"
+  , "lesson": 13
+  }
+, { "id": "timet"
+  , "defs": ["fears"]
+  , "PoS": "verb"
+  , "lesson": 13
+  }
+
+, { "id": "niger, nigra, nigrum"
+  , "defs": ["black", "dark"]
+  , "PoS": "adjective"
+  , "lesson": 14
+  }
+, { "id": "noster, nostra, nostrum"
+  , "defs": ["our", "ours"]
+  , "PoS": "adjective"
+  , "lesson": 14
+  }
+, { "id": "vester, vestra, vestrum"
+  , "defs": ["your", "yours"]
+  , "PoS": "adjective"
+  , "lesson": 14
+  }
+, { "id": "Graecus, Graeca, Graecum"
+  , "defs": ["Greek"]
+  , "PoS": "adjective"
+  , "lesson": 14
+  }
+, { "id": "Latīnus, Latīna, Latīnum"
+  , "defs": ["Latin"]
+  , "PoS": "adjective"
+  , "lesson": 14
+  }
+, { "id": "lātus, lāta, lātum"
+  , "defs": ["broad", "wide"]
+  , "PoS": "adjective"
+  , "lesson": 14
+  }
+, { "id": "novus, nova, novum"
+  , "defs": ["new"]
+  , "PoS": "adjective"
+  , "lesson": 14
+  }
+, { "id": "fossa, fossae, f."
+  , "defs": ["ditch", "trench"]
+  , "gender": "f"
+  , "PoS": "noun"
+  , "lesson": 14
+  }
+, { "id": "lingua, lingae, f."
+  , "defs": ["tongue", "language"]
+  , "gender": "f"
+  , "PoS": "noun"
+  , "lesson": 14
+  }
+, { "id": "erat"
+  , "defs": ["was"]
+  , "PoS": "verb"
+  , "lesson": 14
+  }
+, { "id": "sed"
+  , "defs": ["but"]
+  , "PoS": "conjunction"
+  , "lesson": 14
+  }
+
+, { "id": "albus, alba, album"
+  , "defs": ["white"]
+  , "PoS": "adjective"
+  , "lesson": 15
+  }
+, { "id": "mē"
+  , "defs": ["me"]
+  , "PoS": "pronoun"
+  , "lesson": 15
+  }
+, { "id": "-ne"
+  , "defs": ["?"]
+  , "PoS": "particle"
+  , "lesson": 15
+  }
+, { "id": "num"
+  , "defs": ["?"]
+  , "PoS": "particle"
+  , "lesson": 15
+  }
+, { "id": "suus, sua, suum"
+  , "defs": ["his", "her", "their"]
+  , "PoS": "adjective"
+  , "lesson": 15
+  }
+, { "id": "valdē"
+  , "defs": ["greatly", "very", "very much", "exceedingly"]
+  , "PoS": "adverb"
+  , "lesson": 15
+  }
+, { "id": "valē"
+  , "defs": ["good-bye", "goodbye"]
+  , "PoS": "interjection"
+  , "lesson": 15
+  }
+, { "id": "equitat"
+  , "defs": ["rides"]
+  , "PoS": "verb"
+  , "lesson": 15
+  }
+
+, { "id": "altus, alta, altum"
+  , "defs": ["high", "lofty", "deep"]
+  , "PoS": "adjective"
+  , "lesson": 17
+  }
+, { "id": "Amerīca, Amerīcae, f."
+  , "defs": ["America"]
+  , "gender": "f"
+  , "PoS": "proper noun"
+  , "lesson": 17
+  }
+, { "id": "Amerīcānus, Amerīcāna, Amerīcānum"
+  , "defs": ["American"]
+  , "PoS": "adjective"
+  , "lesson": 17
+  }
+, { "id": "Amerīcānī, Amerīcānōrum, m. pl."
+  , "defs": ["Americans"]
+  , "gender": "m"
+  , "PoS": "proper noun"
+  , "lesson": 17
+  }
+, { "id": "mūrus, mūrī, m."
+  , "defs": ["wall"]
+  , "gender": "m"
+  , "PoS": "noun"
+  , "lesson": 17
+  }
+, { "id": "verbum, verbī, n."
+  , "defs": ["word", "verb"]
+  , "gender": "n"
+  , "PoS": "noun"
+  , "lesson": 17
+  }
+, { "id": "cārus, cāra, cārum"
+  , "defs": ["dear", "precious"]
+  , "PoS": "adjective"
+  , "lesson": 17
+  }
+, { "id": "grātus, grāta, grātum"
+  , "defs": ["acceptable", "welcome"]
+  , "PoS": "adjective"
+  , "lesson": 17
+  }
+, { "id": "iūcundus, iūcunda, iūcundum"
+  , "defs": ["pleasing", "agreeable", "delightful", "interesting"]
+  , "PoS": "adjective"
+  , "lesson": 17
+  }
+, { "id": "nōtus, nōta, nōtum"
+  , "defs": ["known"]
+  , "PoS": "adjective"
+  , "lesson": 17
+  }
+, { "id": "hodiē"
+  , "defs": ["today"]
+  , "PoS": "adverb"
+  , "lesson": 17
+  }
+, { "id": "interdum"
+  , "defs": ["sometimes"]
+  , "PoS": "adverb"
+  , "lesson": 17
+  }
+, { "id": "iam"
+  , "defs": ["already"]
+  , "PoS": "adverb"
+  , "lesson": 17
+  }
+, { "id": "nunquam"
+  , "defs": ["never"]
+  , "PoS": "adverb"
+  , "lesson": 17
+  }
+
+, { "id": "fuga, fugae, f."
+  , "defs": ["flight"]
+  , "gender": "f"
+  , "PoS": "noun"
+  , "lesson": 18
+  }
+, { "id": "taurus, taurī, m."
+  , "defs": ["bull", "bullock"]
+  , "gender": "m"
+  , "PoS": "noun"
+  , "lesson": 18
+  }
+, { "id": "īnstat"
+  , "defs": ["is at hand", "pursues"]
+  , "PoS": "verb"
+  , "lesson": 18
+  }
+, { "id": "intrat"
+  , "defs": ["enters"]
+  , "PoS": "verb"
+  , "lesson": 18
+  }
+, { "id": "līberat"
+  , "defs": ["liberates", "frees"]
+  , "PoS": "verb"
+  , "lesson": 18
+  }
+, { "id": "mandat"
+  , "defs": ["commits", "intrusts", "entrusts"]
+  , "PoS": "verb"
+  , "lesson": 18
+  }
+, { "id": "spectat"
+  , "defs": ["looks at", "watches"]
+  , "PoS": "verb"
+  , "lesson": 18
+  }
+, { "id": "tentat"
+  , "defs": ["tries", "attempts"]
+  , "PoS": "verb"
+  , "lesson": 18
+  }
+, { "id": "terminat"
+  , "defs": ["bounds", "limits"]
+  , "PoS": "verb"
+  , "lesson": 18
+  }
+, { "id": "videt"
+  , "defs": ["sees"]
+  , "PoS": "verb"
+  , "lesson": 18
+  }
+, { "id": "forte"
+  , "defs": ["by chance", "accidentally", "by happenstance"]
+  , "PoS": "adverb"
+  , "lesson": 18
+  }
+, { "id": "sē"
+  , "defs": ["himself"]
+  , "PoS": "pronoun"
+  , "lesson": 18
+  }
+
+, { "id": "cōnsul, cōnsulis, m."
+  , "defs": ["consul"]
+  , "gender": "m"
+  , "PoS": "noun"
+  , "lesson": 19
+  }
+, { "id": "pāstor, pāstōris, m."
+  , "defs": ["shepherd"]
+  , "gender": "m"
+  , "PoS": "noun"
+  , "lesson": 19
+  }
+, { "id": "passer, passeris, m."
+  , "defs": ["sparrow"]
+  , "gender": "m"
+  , "PoS": "noun"
+  , "lesson": 19
+  }
+, { "id": "pater, patris, m."
+  , "defs": ["father"]
+  , "gender": "m"
+  , "PoS": "noun"
+  , "lesson": 19
+  }
+, { "id": "leō, leōnis, m."
+  , "defs": ["lion"]
+  , "gender": "m"
+  , "PoS": "noun"
+  , "lesson": 19
+  }
+, { "id": "virgō, virginis, f."
+  , "defs": ["maiden", "virgin"]
+  , "gender": "f"
+  , "PoS": "noun"
+  , "lesson": 19
+  }
+, { "id": "carmen, carminis, n."
+  , "defs": ["song", "poem"]
+  , "gender": "n"
+  , "PoS": "noun"
+  , "lesson": 19
+  }
+
+, { "id": "Caesar, Caesaris, m."
+  , "defs": ["Caesar"]
+  , "gender": "m"
+  , "PoS": "proper noun"
+  , "lesson": 20
+  }
+, { "id": "Hannibal, Hannibalis, m."
+  , "defs": ["Hannibal"]
+  , "gender": "m"
+  , "PoS": "proper noun"
+  , "lesson": 20
+  }
+, { "id": "clāmor, clāmōris, m."
+  , "defs": ["shout", "shouting", "cry"]
+  , "gender": "m"
+  , "PoS": "noun"
+  , "lesson": 20
+  }
+, { "id": "imperātor, imperātōris, m."
+  , "defs": ["commander", "general"]
+  , "gender": "m"
+  , "PoS": "noun"
+  , "lesson": 20
+  }
+, { "id": "mercātor, mercātōris, m."
+  , "defs": ["merchant", "trader"]
+  , "gender": "m"
+  , "PoS": "noun"
+  , "lesson": 20
+  }
+, { "id": "ōrātor, ōrātōris, m."
+  , "defs": ["orator"]
+  , "gender": "m"
+  , "PoS": "noun"
+  , "lesson": 20
+  }
+, { "id": "praeceptor, praeceptōris, m."
+  , "defs": ["instructor", "preceptor"]
+  , "gender": "m"
+  , "PoS": "noun"
+  , "lesson": 20
+  }
+, { "id": "soror, sorōris, f."
+  , "defs": ["sister"]
+  , "gender": "f"
+  , "PoS": "noun"
+  , "lesson": 20
+  }
+, { "id": "vīctor, vīctōris, m."
+  , "defs": ["conqueror", "victor"]
+  , "gender": "m"
+  , "PoS": "noun"
+  , "lesson": 20
+  }
+, { "id": "frāter, frātris, m."
+  , "defs": ["brother"]
+  , "gender": "m"
+  , "PoS": "noun"
+  , "lesson": 20
+  }
+, { "id": "māter, mātris, f."
+  , "defs": ["mother"]
+  , "gender": "f"
+  , "PoS": "noun"
+  , "lesson": 20
+  }
+, { "id": "mulier, mulieris, f."
+  , "defs": ["woman"]
+  , "gender": "f"
+  , "PoS": "noun"
+  , "lesson": 20
+  }
+, { "id": "fuit"
+  , "defs": ["was"]
+  , "PoS": "verb"
+  , "lesson": 20
+  }
+, { "id": "terret"
+  , "defs": ["frightens", "terrifies"]
+  , "PoS": "verb"
+  , "lesson": 20
+  }
+
+, { "id": "Cicerō, Cicerōnis, m."
+  , "defs": ["Cicero"]
+  , "gender": "m"
+  , "PoS": "proper noun"
+  , "lesson": 21
+  }
+, { "id": "ōrātiō, ōrātiōnis, f."
+  , "defs": ["oration"]
+  , "gender": "f"
+  , "PoS": "noun"
+  , "lesson": 21
+  }
+, { "id": "sermō, sermōnis, m."
+  , "defs": ["discourse", "conversation"]
+  , "gender": "m"
+  , "PoS": "noun"
+  , "lesson": 21
+  }
+, { "id": "homō, hominis, m."
+  , "defs": ["man", "human being"]
+  , "gender": "m"
+  , "PoS": "noun"
+  , "lesson": 21
+  }
+, { "id": "facētus, facēta, facētum"
+  , "defs": ["witty", "facetious"]
+  , "PoS": "adjective"
+  , "lesson": 21
+  }
+, { "id": "Rōmānus, Rōmāna, Rōmānum"
+  , "defs": ["Roman"]
+  , "PoS": "adjective"
+  , "lesson": 21
+  }
+, { "id": "Vergilius, Vergiliī, m."
+  , "defs": ["Vergil"]
+  , "gender": "m"
+  , "PoS": "proper noun"
+  , "lesson": 21
+  }
+, { "id": "quem, m."
+  , "defs": ["whom?"]
+  , "gender": "m"
+  , "PoS": "interrogative pronoun"
+  , "lesson": 21
+  }
+, { "id": "quid, n."
+  , "defs": ["what?"]
+  , "gender": "n"
+  , "PoS": "interrogative pronoun"
+  , "lesson": 21
+  }
+, { "id": "legit"
+  , "defs": ["reads"]
+  , "PoS": "verb"
+  , "lesson": 21
+  }
+
+, { "id": "annus, annī, m."
+  , "defs": ["year"]
+  , "gender": "m"
+  , "PoS": "noun"
+  , "lesson": 22
+  }
+, { "id": "decem"
+  , "defs": ["ten"]
+  , "PoS": "number"
+  , "lesson": 22
+  }
+, { "id": "fīlius, fīliī, m."
+  , "defs": ["son"]
+  , "gender": "m"
+  , "PoS": "noun"
+  , "lesson": 22
+  }
+, { "id": "industrius, industria, industrium"
+  , "defs": ["diligent", "industrious"]
+  , "PoS": "adjective"
+  , "lesson": 22
+  }
+, { "id": "nam"
+  , "defs": ["for"]
+  , "PoS": "conjunction"
+  , "lesson": 22
+  }
+, { "id": "studiōsē"
+  , "defs": ["studiously", "zealously"]
+  , "PoS": "adverb"
+  , "lesson": 22
+  }
+, { "id": "tē"
+  , "defs": ["thee", "you"]
+  , "PoS": "pronoun"
+  , "lesson": 22
+  }
+, { "id": "scrībit"
+  , "defs": ["writes"]
+  , "PoS": "verb"
+  , "lesson": 22
+  }
+, { "id": "valet"
+  , "defs": ["is well", "is strong"]
+  , "PoS": "verb"
+  , "lesson": 22
+  }
+
+, { "id": "flōs, flōris, m."
+  , "defs": ["flower"]
+  , "gender": "m"
+  , "PoS": "noun"
+  , "lesson": 23
+  }
+, { "id": "iūs, iūris, n."
+  , "defs": ["right"]
+  , "gender": "n"
+  , "PoS": "noun"
+  , "lesson": 23
+  }
+, { "id": "opus, operis, n."
+  , "defs": ["work"]
+  , "gender": "n"
+  , "PoS": "noun"
+  , "lesson": 23
+  }
+, { "id": "corpus, corporis, n."
+  , "defs": ["body"]
+  , "gender": "n"
+  , "PoS": "noun"
+  , "lesson": 23
+  }
+, { "id": "genus, generis, n."
+  , "defs": ["race", "kind", "class"]
+  , "gender": "n"
+  , "PoS": "noun"
+  , "lesson": 23
+  }
+, { "id": "mōs, mōris, m."
+  , "defs": ["custom"]
+  , "gender": "m"
+  , "PoS": "noun"
+  , "lesson": 23
+  }
+, { "id": "mōrēs, mōrum, m. pl."
+  , "defs": ["customs", "manners", "character"]
+  , "gender": "m"
+  , "PoS": "noun"
+  , "lesson": 23
+  }
+, { "id": "tempus, temporis, n."
+  , "defs": ["time", "season"]
+  , "gender": "n"
+  , "PoS": "noun"
+  , "lesson": 23
+  }
+, { "id": "tempora, temporum, n. pl."
+  , "defs": ["the times", "times"]
+  , "gender": "n"
+  , "PoS": "noun"
+  , "lesson": 23
+  }
+, { "id": "color, colōris, m."
+  , "defs": ["color"]
+  , "gender": "m"
+  , "PoS": "noun"
+  , "lesson": 23
+  }
+, { "id": "odor, odōris, m."
+  , "defs": ["odor", "perfume"]
+  , "gender": "m"
+  , "PoS": "noun"
+  , "lesson": 23
+  }
+, { "id": "scrīptor, scrīptōris, m."
+  , "defs": ["writer", "author"]
+  , "gender": "m"
+  , "PoS": "noun"
+  , "lesson": 23
+  }
+, { "id": "Germānī, Germānōrum, m. pl."
+  , "defs": ["Germans"]
+  , "gender": "m"
+  , "PoS": "proper noun"
+  , "lesson": 23
+  }
+, { "id": "Tacitus, Tacitī, m."
+  , "defs": ["Tacitus"]
+  , "gender": "m"
+  , "PoS": "proper noun"
+  , "lesson": 23
+  }
+, { "id": "antīquus, antīqua, antīquum"
+  , "defs": ["ancient", "old"]
+  , "PoS": "adjective"
+  , "lesson": 23
+  }
+, { "id": "ēgregius, ēgregia, ēgregium"
+  , "defs": ["remarkable", "excellent"]
+  , "PoS": "adjective"
+  , "lesson": 23
+  }
+, { "id": "varius, varia, varium"
+  , "defs": ["various", "different"]
+  , "PoS": "adjective"
+  , "lesson": 23
+  }
+, { "id": "ōrnat"
+  , "defs": ["adorns", "decorates", "furnishes"]
+  , "PoS": "verb"
+  , "lesson": 23
+  }
+
+, { "id": "prīnceps, prīncipis, m."
+  , "defs": ["chief", "chieftain", "leader", "prince"]
+  , "gender": "m"
+  , "PoS": "noun"
+  , "lesson": 24
+  }
+, { "id": "lapis, lapidis, m."
+  , "defs": ["stone"]
+  , "gender": "m"
+  , "PoS": "noun"
+  , "lesson": 24
+  }
+, { "id": "aetās, aetātis, f."
+  , "defs": ["age"]
+  , "gender": "f"
+  , "PoS": "noun"
+  , "lesson": 24
+  }
+, { "id": "mīles, mīlitis, m."
+  , "defs": ["soldier"]
+  , "gender": "m"
+  , "PoS": "noun"
+  , "lesson": 24
+  }
+, { "id": "virtūs virtūtis, f."
+  , "defs": ["virtue", "valor", "bravery"]
+  , "gender": "f"
+  , "PoS": "noun"
+  , "lesson": 24
+  }
+, { "id": "caput, capitis, n."
+  , "defs": ["head"]
+  , "gender": "n"
+  , "PoS": "noun"
+  , "lesson": 24
+  }
+, { "id": "cīvitās, cīvitātis, f."
+  , "defs": ["state"]
+  , "gender": "f"
+  , "PoS": "noun"
+  , "lesson": 24
+  }
+, { "id": "lībertās, lībertātis, f."
+  , "defs": ["freedom", "liberty"]
+  , "gender": "f"
+  , "PoS": "noun"
+  , "lesson": 24
+  }
+, { "id": "eques, equitis, m."
+  , "defs": ["horseman", "trooper", "knight"]
+  , "gender": "m"
+  , "PoS": "noun"
+  , "lesson": 24
+  }
+, { "id": "equitēs, equitum, m. pl."
+  , "defs": ["horsemen", "cavalry", "knights"]
+  , "gender": "m"
+  , "PoS": "noun"
+  , "lesson": 24
+  }
+, { "id": "hospes, hospitis, m. f."
+  , "defs": ["guest", "visitor"]
+  , "gender": "m/f"
+  , "PoS": "noun"
+  , "lesson": 24
+  }
+, { "id": "cūstōs, cūstōdis, m."
+  , "defs": ["keeper", "guard", "guardian"]
+  , "gender": "m"
+  , "PoS": "noun"
+  , "lesson": 24
+  }
+, { "id": "nepōs, nepōtis, m."
+  , "defs": ["grandson"]
+  , "gender": "m"
+  , "PoS": "noun"
+  , "lesson": 24
+  }
+, { "id": "laus, laudis, f."
+  , "defs": ["praise", "commendation"]
+  , "gender": "f"
+  , "PoS": "noun"
+  , "lesson": 24
+  }
+, { "id": "salūs salūtis, f."
+  , "defs": ["safety"]
+  , "gender": "f"
+  , "PoS": "noun"
+  , "lesson": 24
+  }
+, { "id": "bellum, bellī, n."
+  , "defs": ["war"]
+  , "gender": "n"
+  , "PoS": "noun"
+  , "lesson": 24
+  }
+, { "id": "fortiter"
+  , "defs": ["bravely", "valiantly"]
+  , "PoS": "adverb"
+  , "lesson": 24
+  }
+, { "id": "pūgnat"
+  , "defs": ["fights"]
+  , "PoS": "verb"
+  , "lesson": 24
+  }
+
+, { "id": "rēx, rēgis, m."
+  , "defs": ["king"]
+  , "gender": "m"
+  , "PoS": "noun"
+  , "lesson": 25
+  }
+, { "id": "iūdex, iūdicis, m. f."
+  , "defs": ["judge"]
+  , "gender": "m/f"
+  , "PoS": "noun"
+  , "lesson": 25
+  }
+, { "id": "rādīx, rādīcis, f."
+  , "defs": ["root"]
+  , "gender": "f"
+  , "PoS": "noun"
+  , "lesson": 25
+  }
+, { "id": "dux, ducis, m. f."
+  , "defs": ["leader", "commander"]
+  , "gender": "m/f"
+  , "PoS": "noun"
+  , "lesson": 25
+  }
+, { "id": "lēx, lēgis, f."
+  , "defs": ["law"]
+  , "gender": "f"
+  , "PoS": "noun"
+  , "lesson": 25
+  }
+, { "id": "pāx, pācis, f."
+  , "defs": ["peace"]
+  , "gender": "f"
+  , "PoS": "noun"
+  , "lesson": 25
+  }
+, { "id": "Ancus, Ancī, m."
+  , "defs": ["Ancus"]
+  , "gender": "m"
+  , "PoS": "proper noun"
+  , "lesson": 25
+  }
+, { "id": "Mārtius, Mārtiī, m."
+  , "defs": ["Martius"]
+  , "gender": "m"
+  , "PoS": "proper noun"
+  , "lesson": 25
+  }
+, { "id": "Apollō, Apollinis, m."
+  , "defs": ["Apollo"]
+  , "gender": "m"
+  , "PoS": "proper noun"
+  , "lesson": 25
+  }
+, { "id": "auctōritās, auctōritātis, f."
+  , "defs": ["authority", "influence"]
+  , "gender": "f"
+  , "PoS": "noun"
+  , "lesson": 25
+  }
+, { "id": "Dracō, Dracōnis, m."
+  , "defs": ["Draco"]
+  , "gender": "m"
+  , "PoS": "proper noun"
+  , "lesson": 25
+  }
+, { "id": "Numa, Numae, m."
+  , "defs": ["Numa"]
+  , "gender": "m"
+  , "PoS": "proper noun"
+  , "lesson": 25
+  }
+, { "id": "Pompilius, Pompiliī, m."
+  , "defs": ["Pompilius"]
+  , "gender": "m"
+  , "PoS": "proper noun"
+  , "lesson": 25
+  }
+, { "id": "vulnus, vulneris, n."
+  , "defs": ["wound"]
+  , "gender": "n"
+  , "PoS": "noun"
+  , "lesson": 25
+  }
+, { "id": "aequus, aequa, aequum"
+  , "defs": ["fair", "impartial", "equitable"]
+  , "PoS": "adjective"
+  , "lesson": 25
+  }
+, { "id": "perīculōsus, perīculōsa, perīculōsum"
+  , "defs": ["perilous", "dangerous"]
+  , "PoS": "adjective"
+  , "lesson": 25
+  }
+, { "id": "sevērus, sevēra, sevērum"
+  , "defs": ["severe", "strict", "stern"]
+  , "PoS": "adjective"
+  , "lesson": 25
+  }
+
+, { "id": "contentiō, contentiōnis, f."
+  , "defs": ["strife", "quarrel"]
+  , "gender": "f"
+  , "PoS": "noun"
+  , "lesson": 26
+  }
+, { "id": "fūrtum, fūrtī, n."
+  , "defs": ["theft", "stealing"]
+  , "gender": "n"
+  , "PoS": "noun"
+  , "lesson": 26
+  }
+, { "id": "grāmen, grāminis, n."
+  , "defs": ["grass"]
+  , "gender": "n"
+  , "PoS": "noun"
+  , "lesson": 26
+  }
+, { "id": "multitūdō, multitūdinis, f."
+  , "defs": ["multitude", "great number"]
+  , "gender": "f"
+  , "PoS": "noun"
+  , "lesson": 26
+  }
+, { "id": "poena, poenae, f."
+  , "defs": ["satisfaction", "punishment"]
+  , "gender": "f"
+  , "PoS": "noun"
+  , "lesson": 26
+  }
+, { "id": "poenam dat"
+  , "defs": ["suffers punishment", "gives satisfaction"]
+  , "PoS": "idiom"
+  , "lesson": 26
+  }
+, { "id": "quae"
+  , "defs": ["what?"]
+  , "PoS": "interrogative pronoun"
+  , "lesson": 26
+  }
+, { "id": "tergum, ī, n."
+  , "defs": ["back"]
+  , "gender": "n"
+  , "PoS": "noun"
+  , "lesson": 26
+  }
+, { "id": "tergum dat"
+  , "defs": ["fless", "gives back", "gives his back"]
+  , "PoS": "idiom"
+  , "lesson": 26
+  }
+, { "id": "appropīnquat"
+  , "defs": ["approaches", "draws near"]
+  , "PoS": "verb"
+  , "lesson": 26
+  }
+, { "id": "circumdat"
+  , "defs": ["surrounds, collects about"]
+  , "PoS": "verb"
+  , "lesson": 26
+  }
+, { "id": "dabunt, pl."
+  , "defs": ["will give"]
+  , "PoS": "verb"
+  , "lesson": 26
+  }
+, { "id": "iacet"
+  , "defs": ["lies", "lays"]
+  , "PoS": "verb"
+  , "lesson": 26
+  }
+, { "id": "petunt, pl."
+  , "defs": ["seek"]
+  , "PoS": "verb"
+  , "lesson": 26
+  }
+, { "id": "surgit"
+  , "defs": ["rises"]
+  , "PoS": "verb"
+  , "lesson": 26
+  }
+, { "id": "tacent, pl."
+  , "defs": ["are silent"]
+  , "PoS": "verb"
+  , "lesson": 26
+  }
+, { "id": "vulnerātus est"
+  , "defs": ["is wounded"]
+  , "PoS": "idiom"
+  , "lesson": 26
+  }
+, { "id": "duo, m. pl."
+  , "defs": ["two"]
+  , "gender": "m"
+  , "PoS": "number"
+  , "lesson": 26
+  }
+
+, { "id": "turris, turris, f."
+  , "defs": ["tower"]
+  , "PoS": "noun"
+  , "gender": "f"
+  , "declension": 3
+  , "class": 2
+  , "lesson": 27
+  , "exceptions":
+    { "sg accusative": "turrim, turrem"
+    , "sg ablative": "turrī, turre"
+    }
+  }
+, { "id": "īgnis, īgnis, m."
+  , "defs": ["fire"]
+  , "gender": "m"
+  , "PoS": "noun"
+  , "lesson": 27
+  }
+, { "id": "hostis, hostis, m. f."
+  , "defs": ["enemy"]
+  , "gender": "m/f"
+  , "PoS": "noun"
+  , "lesson": 27
+  }
+, { "id": "nūbēs, nūbis, f."
+  , "defs": ["cloud"]
+  , "gender": "f"
+  , "PoS": "noun"
+  , "lesson": 27
+  }
+, { "id": "avis, avis, f."
+  , "defs": ["bird"]
+  , "gender": "f"
+  , "PoS": "noun"
+  , "lesson": 27
+  }
+, { "id": "cīvis, cīvis, m. f."
+  , "defs": ["citizen"]
+  , "gender": "m/f"
+  , "PoS": "noun"
+  , "lesson": 27
+  }
+, { "id": "clāssis, clāssis, f."
+  , "defs": ["class", "fleet", "navy"]
+  , "gender": "f"
+  , "PoS": "noun"
+  , "lesson": 27
+  }
+, { "id": "collis, collis, m."
+  , "defs": ["hill"]
+  , "gender": "m"
+  , "PoS": "noun"
+  , "lesson": 27
+  }
+, { "id": "nāvis, nāvis, f."
+  , "defs": ["ship"]
+  , "gender": "f"
+  , "PoS": "noun"
+  , "lesson": 27
+  }
+, { "id": "nāvis longa, nāvis longae, f."
+  , "defs": ["ship of war", "long ship"]
+  , "gender": "f"
+  , "PoS": "noun"
+  , "lesson": 27
+  }
+, { "id": "caedēs, caedis, f."
+  , "defs": ["slaughter"]
+  , "gender": "f"
+  , "PoS": "noun"
+  , "lesson": 27
+  }
+, { "id": "clādēs, clādis, f."
+  , "defs": ["disaster", "defeat"]
+  , "gender": "f"
+  , "PoS": "noun"
+  , "lesson": 27
+  }
+, { "id": "altitūdō, altitūdinis, f."
+  , "defs": ["height", "altitude"]
+  , "gender": "f"
+  , "PoS": "noun"
+  , "lesson": 27
+  }
+, { "id": "comes, comitis, m. f."
+  , "defs": ["companion", "associate"]
+  , "gender": "m/f"
+  , "PoS": "noun"
+  , "lesson": 27
+  }
+, { "id": "malus, mala, malum"
+  , "defs": ["bad", "vicious"]
+  , "PoS": "adjective"
+  , "lesson": 27
+  }
+, { "id": "numerus, numerī, m."
+  , "defs": ["number"]
+  , "gender": "m"
+  , "PoS": "noun"
+  , "lesson": 27
+  }
+
+, { "id": "cubīle, cubīlis, n."
+  , "defs": ["couch"]
+  , "gender": "n"
+  , "PoS": "noun"
+  , "lesson": 28
+  }
+, { "id": "animal, animālis, n."
+  , "defs": ["animal"]
+  , "gender": "n"
+  , "PoS": "noun"
+  , "lesson": 28
+  }
+, { "id": "calcar, calcāris, n."
+  , "defs": ["spur"]
+  , "gender": "n"
+  , "PoS": "noun"
+  , "lesson": 28
+  }
+
+, { "id": "mare, maris, n."
+  , "defs": ["sea"]
+  , "gender": "n"
+  , "PoS": "noun"
+  , "lesson": 29
+  }
+, { "id": "Athēnae, Athēnārum, f. pl."
+  , "defs": ["Athens"]
+  , "gender": "f"
+  , "PoS": "proper noun"
+  , "lesson": 29
+  }
+, { "id": "Minerva, Minervae, f."
+  , "defs": ["Minerva"]
+  , "gender": "f"
+  , "PoS": "proper noun"
+  , "lesson": 29
+  }
+, { "id": "fertilis, fertile"
+  , "defs": ["fertile"]
+  , "PoS": "adjective"
+  , "lesson": 29
+  }
+, { "id": "fortis, forte"
+  , "defs": ["brave", "valiant"]
+  , "PoS": "adjective"
+  , "lesson": 29
+  }
+, { "id": "omnis, omne"
+  , "defs": ["all", "every"]
+  , "PoS": "adjective"
+  , "lesson": 29
+  }
+, { "id": "trīstis, trīste"
+  , "defs": ["sad"]
+  , "PoS": "adjective"
+  , "lesson": 29
+  }
+, { "id": "ūtilis, ūtile"
+  , "defs": ["useful"]
+  , "PoS": "adjective"
+  , "lesson": 29
+  }
+, { "id": "vāstus, vāsta, vāstum"
+  , "defs": ["vast", "immense"]
+  , "PoS": "adjective"
+  , "lesson": 29
+  }
+]

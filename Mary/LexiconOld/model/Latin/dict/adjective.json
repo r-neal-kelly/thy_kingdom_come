@@ -1,0 +1,447 @@
+[
+  {
+    "nominative": "Amerīcānus, Amerīcāna, Amerīcānum",
+    "genitive": "Amerīcānī, Amerīcānae, Amerīcānī",
+    "declension": "2, 1, 2",
+    "gender": "m, f, n",
+    "defs": [
+      "American"
+    ]
+  },
+  {
+    "nominative": "Graecus, Graeca, Graecum",
+    "genitive": "Graecī, Graecae, Graecī",
+    "declension": "2, 1, 2",
+    "gender": "m, f, n",
+    "defs": [
+      "Greek"
+    ]
+  },
+  {
+    "nominative": "Latīnus, Latīna, Latīnum",
+    "genitive": "Latīnī, Latīnae, Latīnī",
+    "declension": "2, 1, 2",
+    "gender": "m, f, n",
+    "defs": [
+      "Latin"
+    ]
+  },
+  {
+    "nominative": "Rōmānus, Rōmāna, Rōmānum",
+    "genitive": "Rōmānī, Rōmānae, Rōmānī",
+    "declension": "2, 1, 2",
+    "gender": "m, f, n",
+    "defs": [
+      "Roman"
+    ]
+  },
+  {
+    "nominative": "aeger, aegra, aegrum",
+    "genitive": "aegrī, aegrae, aegrī",
+    "declension": "2, 1, 2",
+    "gender": "m, f, n",
+    "defs": [
+      "ill",
+      "sick"
+    ]
+  },
+  {
+    "nominative": "aequus, aequa, aequum",
+    "genitive": "aequī, aequae, aequī",
+    "declension": "2, 1, 2",
+    "gender": "m, f, n",
+    "defs": [
+      "fair",
+      "impartial",
+      "equitable"
+    ]
+  },
+  {
+    "nominative": "albus, alba, album",
+    "genitive": "albī, albae, albī",
+    "declension": "2, 1, 2",
+    "gender": "m, f, n",
+    "defs": [
+      "white"
+    ]
+  },
+  {
+    "nominative": "altus, alta, altum",
+    "genitive": "altī, altae, altī",
+    "declension": "2, 1, 2",
+    "gender": "m, f, n",
+    "defs": [
+      "high",
+      "lofty",
+      "deep"
+    ]
+  },
+  {
+    "nominative": "antīquus, antīqua, antīquum",
+    "genitive": "antīquī, antīquae, antīquī",
+    "declension": "2, 1, 2",
+    "gender": "m, f, n",
+    "defs": [
+      "ancient",
+      "old",
+      "antique"
+    ]
+  },
+  {
+    "nominative": "asper, aspera, asperum",
+    "genitive": "asperī, asperae, asperī",
+    "declension": "2, 1, 2",
+    "gender": "m, f, n",
+    "defs": [
+      "rough",
+      "hard",
+      "harsh"
+    ]
+  },
+  {
+    "nominative": "aureus, aurea, aureum",
+    "genitive": "aureī, aureae, aureī",
+    "declension": "2, 1, 2",
+    "gender": "m, f, n",
+    "defs": [
+      "golden",
+      "of gold"
+    ]
+  },
+  {
+    "nominative": "beātus, beāta, beātum",
+    "genitive": "beātī, beātae, beātī",
+    "declension": "2, 1, 2",
+    "gender": "m, f, n",
+    "defs": [
+      "happy"
+    ]
+  },
+  {
+    "nominative": "bonus, bona, bonum",
+    "genitive": "bonī, bonae, bonī",
+    "declension": "2, 1, 2",
+    "gender": "m, f, n",
+    "defs": [
+      "good"
+    ]
+  },
+  {
+    "nominative": "cārus, cāra, cārum",
+    "genitive": "cārī, cārae, cārī",
+    "declension": "2, 1, 2",
+    "gender": "m, f, n",
+    "defs": [
+      "dear",
+      "precious"
+    ]
+  },
+  {
+    "nominative": "clārus, clāra, clārum",
+    "genitive": "clārī, clārae, clārī",
+    "declension": "2, 1, 2",
+    "gender": "m, f, n",
+    "defs": [
+      "famous",
+      "illustrious",
+      "well known"
+    ]
+  },
+  {
+    "nominative": "doctus, docta, doctum",
+    "genitive": "doctī, doctae, doctī",
+    "declension": "2, 1, 2",
+    "gender": "m, f, n",
+    "defs": [
+      "learned"
+    ]
+  },
+  {
+    "nominative": "ēgregius, ēgregia, ēgregium",
+    "genitive": "ēgregiī, ēgregiae, ēgregriī",
+    "declension": "2, 1, 2",
+    "gender": "m, f, n",
+    "defs": [
+      "remarkable",
+      "excellent"
+    ]
+  },
+  {
+    "nominative": "facētus, facēta, facētum",
+    "genitive": "facētī, facētae, facētī",
+    "declension": "2, 1, 2",
+    "gender": "m, f, n",
+    "defs": [
+      "witty",
+      "facetious"
+    ]
+  },
+  {
+    "nominative": "fīdus, fīda, fīdum",
+    "genitive": "fīdī, fīdae, fīdī",
+    "declension": "2, 1, 2",
+    "gender": "m, f, n",
+    "defs": [
+      "faithful",
+      "trustworthy",
+      "loyal"
+    ]
+  },
+  {
+    "nominative": "grātus, grāta, grātum",
+    "genitive": "grātī, grātae, grātī",
+    "declension": "2, 1, 2",
+    "gender": "m, f, n",
+    "defs": [
+      "acceptable",
+      "welcome"
+    ]
+  },
+  {
+    "nominative": "īgnāvus, īgnāva, īgnāvum",
+    "genitive": "īgnāvī, īgnāvae, īgnāvī",
+    "declension": "2, 1, 2",
+    "gender": "m, f, n",
+    "defs": [
+      "indolent",
+      "idle",
+      "lazy"
+    ]
+  },
+  {
+    "nominative": "industrius, industria, industrium",
+    "genitive": "industriī, industriae, industriī",
+    "declension": "2, 1, 2",
+    "gender": "m, f, n",
+    "defs": [
+      "diligent",
+      "industrious"
+    ]
+  },
+  {
+    "nominative": "iūcundus, iūcunda, iūcundum",
+    "genitive": "iūcundī, iūcundae, iūcundī",
+    "declension": "2, 1, 2",
+    "gender": "m, f, n",
+    "defs": [
+      "pleasing",
+      "agreeable",
+      "delightful",
+      "interesting"
+    ]
+  },
+  {
+    "nominative": "lātus, lāta, lātum",
+    "genitive": "lātī, lātae, lātī",
+    "declension": "2, 1, 2",
+    "gender": "m, f, n",
+    "defs": [
+      "broad",
+      "wide"
+    ]
+  },
+  {
+    "nominative": "līber, lībera, līberum",
+    "genitive": "līberī, līberae, līberī",
+    "declension": "2, 1, 2",
+    "gender": "m, f, n",
+    "defs": [
+      "free"
+    ]
+  },
+  {
+    "nominative": "longus, longa, longum",
+    "genitive": "longī, longae, longī",
+    "declension": "2, 1, 2",
+    "gender": "m, f, n",
+    "defs": [
+      "long"
+    ]
+  },
+  {
+    "nominative": "māgnificus, māgnifica, māgnificum",
+    "genitive": "māgnificī, māgnificae, māgnificī",
+    "declension": "2, 1, 2",
+    "gender": "m, f, n",
+    "defs": [
+      "magnificent",
+      "splendid"
+    ]
+  },
+  {
+    "nominative": "māgnus, māgna, māgnum",
+    "genitive": "māgnī, māgnae, māgnī",
+    "declension": "2, 1, 2",
+    "gender": "m, f, n",
+    "defs": [
+      "great",
+      "large",
+      "big"
+    ]
+  },
+  {
+    "nominative": "meus, mea, meum",
+    "genitive": "meī, meae, meī",
+    "declension": "2, 1, 2",
+    "gender": "m, f, n",
+    "defs": [
+      "my",
+      "mine"
+    ]
+  },
+  {
+    "nominative": "miser, misera, miserum",
+    "genitive": "miserī, miserae, miserī",
+    "declension": "2, 1, 2",
+    "gender": "m, f, n",
+    "defs": [
+      "wretched",
+      "unhappy",
+      "sad",
+      "miserable"
+    ]
+  },
+  {
+    "nominative": "multus, multa, multum",
+    "genitive": "multī, multae, multī",
+    "declension": "2, 1, 2",
+    "gender": "m, f, n",
+    "defs": [
+      "many",
+      "much"
+    ]
+  },
+  {
+    "nominative": "niger, nigra, nigrum",
+    "genitive": "nigrī, nigrae, nigrī",
+    "declension": "2, 1, 2",
+    "gender": "m, f, n",
+    "defs": [
+      "black",
+      "dark"
+    ]
+  },
+  {
+    "nominative": "noster, nostra, nostrum",
+    "genitive": "nostrī, nostrae, nostrī",
+    "declension": "2, 1, 2",
+    "gender": "m, f, n",
+    "defs": [
+      "our",
+      "ours"
+    ]
+  },
+  {
+    "nominative": "nōtus, nōta, nōtum",
+    "genitive": "nōtī, nōtae, nōtī",
+    "declension": "2, 1, 2",
+    "gender": "m, f, n",
+    "defs": [
+      "known"
+    ]
+  },
+  {
+    "nominative": "novus, nova, novum",
+    "genitive": "novī, novae, novī",
+    "declension": "2, 1, 2",
+    "gender": "m, f, n",
+    "defs": [
+      "new"
+    ]
+  },
+  {
+    "nominative": "perīculōsus, perīculōsa, perīculōsum",
+    "genitive": "perīculōsī, perīculōsae, perīculōsī",
+    "declension": "2, 1, 2",
+    "gender": "m, f, n",
+    "defs": [
+      "perilous",
+      "dangerous"
+    ]
+  },
+  {
+    "nominative": "pulcher, pulchra, pulchrum",
+    "genitive": "pulcrī, pulcrae, pulchrī",
+    "declension": "2, 1, 2",
+    "gender": "m, f, n",
+    "defs": [
+      "beautiful",
+      "pretty"
+    ]
+  },
+  {
+    "nominative": "ruber, rubra, rubrum",
+    "genitive": "rubrī, rubrae, rubrī",
+    "declension": "2, 1, 2",
+    "gender": "m, f, n",
+    "defs": [
+      "red",
+      "ruddy"
+    ]
+  },
+  {
+    "nominative": "servērus, sevēra, sevērum",
+    "genitive": "sevērī, sevērae, sevērī",
+    "declension": "2, 1, 2",
+    "gender": "m, f, n",
+    "defs": [
+      "severe",
+      "strict",
+      "stern"
+    ]
+  },
+  {
+    "nominative": "suus, sua, suum",
+    "genitive": "suī, suae, suī",
+    "declension": "2, 1, 2",
+    "gender": "m, f, n",
+    "defs": [
+      "his",
+      "her",
+      "their"
+    ]
+  },
+  {
+    "nominative": "tener, tenera, tenerum",
+    "genitive": "tenerī, tenerae, tenerī",
+    "declension": "2, 1, 2",
+    "gender": "m, f, n",
+    "defs": [
+      "tender",
+      "young",
+      "delicate"
+    ]
+  },
+  {
+    "nominative": "tuus, tua, tuum",
+    "genitive": "tuī, tuae, tuī",
+    "declension": "2, 1, 2",
+    "gender": "m, f, n",
+    "defs": [
+      "your",
+      "yours",
+      "thy",
+      "thine"
+    ]
+  },
+  {
+    "nominative": "varius, varia, varium",
+    "genitive": "variī, variae, variī",
+    "declension": "2, 1, 2",
+    "gender": "m, f, n",
+    "defs": [
+      "various",
+      "different"
+    ]
+  },
+  {
+    "nominative": "vester, vestra, vestrum",
+    "genitive": "vestrī, vestrae, vestrī",
+    "declension": "2, 1, 2",
+    "gender": "m, f, n",
+    "defs": [
+      "your",
+      "yours"
+    ]
+  }
+]

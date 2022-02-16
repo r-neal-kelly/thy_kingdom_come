@@ -1,0 +1,810 @@
+[
+  {
+    "verb": "accūsant",
+    "voice": "active",
+    "number": "plural",
+    "defs": [
+      "accuse"
+    ]
+  },
+  {
+    "verb": "accūsantur",
+    "voice": "passive",
+    "number": "plural",
+    "defs": [
+      "are accused"
+    ]
+  },
+  {
+    "verb": "accūsat",
+    "voice": "active",
+    "number": "singular",
+    "defs": [
+      "accuses"
+    ]
+  },
+  {
+    "verb": "accūsātur",
+    "voice": "passive",
+    "number": "singular",
+    "defs": [
+      "is accused"
+    ]
+  },
+  {
+    "verb": "amant",
+    "voice": "active",
+    "number": "plural",
+    "defs": [
+      "love"
+    ]
+  },
+  {
+    "verb": "amantur",
+    "voice": "passive",
+    "number": "plural",
+    "defs": [
+      "are loved"
+    ]
+  },
+  {
+    "verb": "amat",
+    "voice": "active",
+    "number": "singular",
+    "defs": [
+      "loves"
+    ]
+  },
+  {
+    "verb": "amātur",
+    "voice": "passive",
+    "number": "singular",
+    "defs": [
+      "is loved"
+    ]
+  },
+  {
+    "verb": "ambulant",
+    "voice": "active",
+    "number": "plural",
+    "defs": [
+      "walk"
+    ]
+  },
+  {
+    "verb": "ambulat",
+    "voice": "active",
+    "number": "singular",
+    "defs": [
+      "walks"
+    ]
+  },
+  {
+    "verb": "appropīnquant",
+    "voice": "active",
+    "number": "plural",
+    "defs": [
+      "approach",
+      "draw near"
+    ]
+  },
+  {
+    "verb": "cantant",
+    "voice": "active",
+    "number": "plural",
+    "defs": [
+      "sing"
+    ]
+  },
+  {
+    "verb": "cantantur",
+    "voice": "passive",
+    "number": "plural",
+    "defs": [
+      "are sung"
+    ]
+  },
+  {
+    "verb": "cantat",
+    "voice": "active",
+    "number": "singular",
+    "defs": [
+      "sings"
+    ]
+  },
+  {
+    "verb": "cantātur",
+    "voice": "passive",
+    "number": "singular",
+    "defs": [
+      "is sung"
+    ]
+  },
+  {
+    "verb": "circumdant",
+    "voice": "active",
+    "number": "plural",
+    "defs": [
+      "surround",
+      "collect about"
+    ]
+  },
+  {
+    "verb": "dabunt",
+    "voice": "active",
+    "number": "plural",
+    "defs": [
+      "will give"
+    ]
+  },
+  {
+    "verb": "dant",
+    "voice": "active",
+    "number": "plural",
+    "defs": [
+      "give"
+    ]
+  },
+  {
+    "verb": "dantur",
+    "voice": "passive",
+    "number": "plural",
+    "defs": [
+      "are given"
+    ]
+  },
+  {
+    "verb": "dat",
+    "voice": "active",
+    "number": "singular",
+    "defs": [
+      "gives"
+    ]
+  },
+  {
+    "verb": "datur",
+    "voice": "passive",
+    "number": "singular",
+    "defs": [
+      "is given"
+    ]
+  },
+  {
+    "verb": "dēlectant",
+    "voice": "active",
+    "number": "plural",
+    "defs": [
+      "please",
+      "delight"
+    ]
+  },
+  {
+    "verb": "dēlectantur",
+    "voice": "passive",
+    "number": "plural",
+    "defs": [
+      "are pleased",
+      "are delighted"
+    ]
+  },
+  {
+    "verb": "dēlectat",
+    "voice": "active",
+    "number": "singular",
+    "defs": [
+      "pleases",
+      "delights"
+    ]
+  },
+  {
+    "verb": "dēlectātur",
+    "voice": "passive",
+    "number": "singular",
+    "defs": [
+      "is pleased",
+      "is delighted"
+    ]
+  },
+  {
+    "verb": "equitant",
+    "voice": "active",
+    "number": "plural",
+    "defs": [
+      "ride"
+    ]
+  },
+  {
+    "verb": "equitat",
+    "voice": "active",
+    "number": "singular",
+    "defs": [
+      "rides"
+    ]
+  },
+  {
+    "verb": "erant",
+    "voice": "active",
+    "number": "plural",
+    "defs": [
+      "were"
+    ]
+  },
+  {
+    "verb": "erat",
+    "voice": "active",
+    "number": "singular",
+    "defs": [
+      "was"
+    ]
+  },
+  {
+    "verb": "est",
+    "voice": "active",
+    "number": "singular",
+    "defs": [
+      "is",
+      "holds"
+    ]
+  },
+  {
+    "verb": "exspectant",
+    "voice": "active",
+    "number": "plural",
+    "defs": [
+      "expect",
+      "await"
+    ]
+  },
+  {
+    "verb": "exspectantur",
+    "voice": "passive",
+    "number": "plural",
+    "defs": [
+      "are expected"
+    ]
+  },
+  {
+    "verb": "exspectat",
+    "voice": "active",
+    "number": "singular",
+    "defs": [
+      "expects",
+      "awaits"
+    ]
+  },
+  {
+    "verb": "exspectātur",
+    "voice": "passive",
+    "number": "singular",
+    "defs": [
+      "is expected"
+    ]
+  },
+  {
+    "verb": "fuērunt",
+    "voice": "active",
+    "number": "plural",
+    "defs": [
+      "were"
+    ]
+  },
+  {
+    "verb": "fuit",
+    "voice": "active",
+    "number": "singular",
+    "defs": [
+      "was"
+    ]
+  },
+  {
+    "verb": "habent",
+    "voice": "active",
+    "number": "plural",
+    "defs": [
+      "have",
+      "hold"
+    ]
+  },
+  {
+    "verb": "habet",
+    "voice": "active",
+    "number": "singular",
+    "defs": [
+      "has",
+      "holds"
+    ]
+  },
+  {
+    "verb": "iacet",
+    "voice": "active",
+    "number": "singular",
+    "defs": [
+      "is lying",
+      "lies"
+    ]
+  },
+  {
+    "verb": "īnstant",
+    "voice": "active",
+    "number": "plural",
+    "defs": [
+      "are at hand",
+      "pursue"
+    ]
+  },
+  {
+    "verb": "īnstat",
+    "voice": "active",
+    "number": "singular",
+    "defs": [
+      "is at hand",
+      "pursues"
+    ]
+  },
+  {
+    "verb": "intrant",
+    "voice": "active",
+    "number": "plural",
+    "defs": [
+      "enter"
+    ]
+  },
+  {
+    "verb": "intrat",
+    "voice": "active",
+    "number": "singular",
+    "defs": [
+      "enters"
+    ]
+  },
+  {
+    "verb": "laudant",
+    "voice": "active",
+    "number": "plural",
+    "defs": [
+      "praise"
+    ]
+  },
+  {
+    "verb": "laudantur",
+    "voice": "passive",
+    "number": "plural",
+    "defs": [
+      "are praised"
+    ]
+  },
+  {
+    "verb": "laudat",
+    "voice": "active",
+    "number": "singular",
+    "defs": [
+      "praises"
+    ]
+  },
+  {
+    "verb": "laudātur",
+    "voice": "passive",
+    "number": "singular",
+    "defs": [
+      "is praised"
+    ]
+  },
+  {
+    "verb": "legit",
+    "voice": "active",
+    "number": "singular",
+    "defs": [
+      "reads"
+    ]
+  },
+  {
+    "verb": "legitur",
+    "voice": "passive",
+    "number": "singular",
+    "defs": [
+      "is read"
+    ]
+  },
+  {
+    "verb": "legunt",
+    "voice": "active",
+    "number": "plural",
+    "defs": [
+      "read"
+    ]
+  },
+  {
+    "verb": "leguntur",
+    "voice": "passive",
+    "number": "plural",
+    "defs": [
+      "are read"
+    ]
+  },
+  {
+    "verb": "līberant",
+    "voice": "active",
+    "number": "plural",
+    "defs": [
+      "liberate",
+      "free"
+    ]
+  },
+  {
+    "verb": "līberat",
+    "voice": "active",
+    "number": "singular",
+    "defs": [
+      "liberates",
+      "frees"
+    ]
+  },
+  {
+    "verb": "mandant",
+    "voice": "active",
+    "number": "plural",
+    "defs": [
+      "commit",
+      "intrust",
+      "entrust"
+    ]
+  },
+  {
+    "verb": "mandat",
+    "voice": "active",
+    "number": "singular",
+    "defs": [
+      "commits",
+      "intrusts",
+      "entrusts"
+    ]
+  },
+  {
+    "verb": "mōnstrant",
+    "voice": "active",
+    "number": "plural",
+    "defs": [
+      "show",
+      "point out"
+    ]
+  },
+  {
+    "verb": "mōnstrantur",
+    "voice": "passive",
+    "number": "plural",
+    "defs": [
+      "are shown",
+      "are pointed out"
+    ]
+  },
+  {
+    "verb": "mōnstrat",
+    "voice": "active",
+    "number": "singular",
+    "defs": [
+      "shows",
+      "points out"
+    ]
+  },
+  {
+    "verb": "mōnstrātur",
+    "voice": "passive",
+    "number": "singular",
+    "defs": [
+      "is shown",
+      "is pointed out"
+    ]
+  },
+  {
+    "verb": "ōrnant",
+    "voice": "active",
+    "number": "plural",
+    "defs": [
+      "adorn",
+      "decorate",
+      "furnish"
+    ]
+  },
+  {
+    "verb": "ōrnantur",
+    "voice": "passive",
+    "number": "plural",
+    "defs": [
+      "are adorned",
+      "are decorated",
+      "are furnished"
+    ]
+  },
+  {
+    "verb": "ōrnat",
+    "voice": "active",
+    "number": "singular",
+    "defs": [
+      "adorns",
+      "decorates",
+      "furnishes"
+    ]
+  },
+  {
+    "verb": "ōrnātur",
+    "voice": "passive",
+    "number": "singular",
+    "defs": [
+      "is adorned",
+      "is decorated",
+      "is furnished"
+    ]
+  },
+  {
+    "verb": "petunt",
+    "voice": "active",
+    "number": "plural",
+    "defs": [
+      "seek"
+    ]
+  },
+  {
+    "verb": "pūgnant",
+    "voice": "active",
+    "number": "plural",
+    "defs": [
+      "fight"
+    ]
+  },
+  {
+    "verb": "pūgnat",
+    "voice": "active",
+    "number": "singular",
+    "defs": [
+      "fights"
+    ]
+  },
+  {
+    "verb": "scrībit",
+    "voice": "active",
+    "number": "singular",
+    "defs": [
+      "writes"
+    ]
+  },
+  {
+    "verb": "scrībitur",
+    "voice": "passive",
+    "number": "singular",
+    "defs": [
+      "is written"
+    ]
+  },
+  {
+    "verb": "scrībunt",
+    "voice": "active",
+    "number": "plural",
+    "defs": [
+      "write"
+    ]
+  },
+  {
+    "verb": "scrībuntur",
+    "voice": "passive",
+    "number": "plural",
+    "defs": [
+      "are written"
+    ]
+  },
+  {
+    "verb": "spectant",
+    "voice": "active",
+    "number": "plural",
+    "defs": [
+      "look at",
+      "watch"
+    ]
+  },
+  {
+    "verb": "spectat",
+    "voice": "active",
+    "number": "singular",
+    "defs": [
+      "looks at",
+      "watches"
+    ]
+  },
+  {
+    "verb": "sunt",
+    "voice": "active",
+    "number": "plural",
+    "defs": [
+      "are"
+    ]
+  },
+  {
+    "verb": "surgit",
+    "voice": "active",
+    "number": "singular",
+    "defs": [
+      "rises"
+    ]
+  },
+  {
+    "verb": "tacent",
+    "voice": "active",
+    "number": "plural",
+    "defs": [
+      "are silent"
+    ]
+  },
+  {
+    "verb": "tentant",
+    "voice": "active",
+    "number": "plural",
+    "defs": [
+      "try",
+      "attempt"
+    ]
+  },
+  {
+    "verb": "tentat",
+    "voice": "active",
+    "number": "singular",
+    "defs": [
+      "tries",
+      "attempts"
+    ]
+  },
+  {
+    "verb": "terminant",
+    "voice": "active",
+    "number": "plural",
+    "defs": [
+      "bound",
+      "limit"
+    ]
+  },
+  {
+    "verb": "terminat",
+    "voice": "active",
+    "number": "singular",
+    "defs": [
+      "bounds",
+      "limits"
+    ]
+  },
+  {
+    "verb": "terrent",
+    "voice": "active",
+    "number": "plural",
+    "defs": [
+      "frighten",
+      "terrify"
+    ]
+  },
+  {
+    "verb": "terrentur",
+    "voice": "passive",
+    "number": "plural",
+    "defs": [
+      "are frightened",
+      "are terrified"
+    ]
+  },
+  {
+    "verb": "terret",
+    "voice": "active",
+    "number": "singular",
+    "defs": [
+      "frightens",
+      "terrifies"
+    ]
+  },
+  {
+    "verb": "terrētur",
+    "voice": "passive",
+    "number": "singular",
+    "defs": [
+      "is frightened",
+      "is terrified"
+    ]
+  },
+  {
+    "verb": "timent",
+    "voice": "active",
+    "number": "plural",
+    "defs": [
+      "fear"
+    ]
+  },
+  {
+    "verb": "timentur",
+    "voice": "passive",
+    "number": "plural",
+    "defs": [
+      "are feared"
+    ]
+  },
+  {
+    "verb": "timet",
+    "voice": "active",
+    "number": "singular",
+    "defs": [
+      "fears"
+    ]
+  },
+  {
+    "verb": "timētur",
+    "voice": "passive",
+    "number": "singular",
+    "defs": [
+      "is feared"
+    ]
+  },
+  {
+    "verb": "valent",
+    "voice": "active",
+    "number": "plural",
+    "defs": [
+      "are well",
+      "are strong"
+    ]
+  },
+  {
+    "verb": "valet",
+    "voice": "active",
+    "number": "singular",
+    "defs": [
+      "is well",
+      "is strong"
+    ]
+  },
+  {
+    "verb": "vident",
+    "voice": "active",
+    "number": "plural",
+    "defs": [
+      "see"
+    ]
+  },
+  {
+    "verb": "videt",
+    "voice": "active",
+    "number": "singular",
+    "defs": [
+      "sees"
+    ]
+  },
+  {
+    "verb": "vītant",
+    "voice": "active",
+    "number": "plural",
+    "defs": [
+      "avoid",
+      "shun"
+    ]
+  },
+  {
+    "verb": "vītantur",
+    "voice": "passive",
+    "number": "plural",
+    "defs": [
+      "are avoided",
+      "are shunned"
+    ]
+  },
+  {
+    "verb": "vītat",
+    "voice": "active",
+    "number": "singular",
+    "defs": [
+      "avoids",
+      "shuns"
+    ]
+  },
+  {
+    "verb": "vītātur",
+    "voice": "passive",
+    "number": "singular",
+    "defs": [
+      "is avoided",
+      "is shunned"
+    ]
+  }
+]

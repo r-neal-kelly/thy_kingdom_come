@@ -1,0 +1,332 @@
+[
+  {
+    "nominative": "Aetna",
+    "genitive": "Aetnae",
+    "declension": "1",
+    "gender": "f",
+    "defs": [
+      "Aetna",
+      "Mount Aetna"
+    ]
+  },
+  {
+    "nominative": "Albertus",
+    "genitive": "Albertī",
+    "declension": "2",
+    "gender": "m",
+    "defs": [
+      "Albert"
+    ]
+  },
+  {
+    "nominative": "Amelia",
+    "genitive": "Ameliae",
+    "declension": "1",
+    "gender": "f",
+    "defs": [
+      "Amelia"
+    ]
+  },
+  {
+    "nominative": "Amerīca",
+    "genitive": "Amerīcae",
+    "declension": "1",
+    "gender": "f",
+    "defs": [
+      "America"
+    ]
+  },
+  {
+    "nominative": "Ancus",
+    "genitive": "Ancī",
+    "declension": "2",
+    "gender": "m",
+    "defs": [
+      "Ancus"
+    ]
+  },
+  {
+    "nominative": "Apollō",
+    "genitive": "Apollinis",
+    "declension": "3",
+    "gender": "m",
+    "defs": [
+      "Apollo"
+    ]
+  },
+  {
+    "nominative": "Caesar",
+    "genitive": "Caesaris",
+    "declension": "3",
+    "gender": "m",
+    "defs": [
+      "Caesar"
+    ]
+  },
+  {
+    "nominative": "Carolus",
+    "genitive": "Carolī",
+    "declension": "2",
+    "gender": "m",
+    "defs": [
+      "Charles",
+      "Carl"
+    ]
+  },
+  {
+    "nominative": "Cicerō",
+    "genitive": "Cicerōnis",
+    "declension": "3",
+    "gender": "m",
+    "defs": [
+      "Cicero"
+    ]
+  },
+  {
+    "nominative": "Corinthus",
+    "genitive": "Corinthī",
+    "declension": "2",
+    "gender": "f",
+    "defs": [
+      "Corinth"
+    ]
+  },
+  {
+    "nominative": "Cornēlia",
+    "genitive": "Cornēliae",
+    "declension": "1",
+    "gender": "f",
+    "defs": [
+      "Cornelia"
+    ]
+  },
+  {
+    "nominative": "Dracō",
+    "genitive": "Dracōnis",
+    "declension": "3",
+    "gender": "m",
+    "defs": [
+      "Draco"
+    ]
+  },
+  {
+    "nominative": "Eurōpa",
+    "genitive": "Eurōpae",
+    "declension": "1",
+    "gender": "f",
+    "defs": [
+      "Europe"
+    ]
+  },
+  {
+    "nominative": "Frederīcus",
+    "genitive": "Frederīcī",
+    "declension": "2",
+    "gender": "m",
+    "defs": [
+      "Frederick",
+      "Fred"
+    ]
+  },
+  {
+    "nominative": "Graecia",
+    "genitive": "Graeciae",
+    "declension": "1",
+    "gender": "f",
+    "defs": [
+      "Greece"
+    ]
+  },
+  {
+    "nominative": "Hannibal",
+    "genitive": "Hannibalis",
+    "declension": "3",
+    "gender": "m",
+    "defs": [
+      "Hannibal"
+    ]
+  },
+  {
+    "nominative": "Henrīcus",
+    "genitive": "Henrīcī",
+    "declension": "2",
+    "gender": "m",
+    "defs": [
+      "Henry"
+    ]
+  },
+  {
+    "nominative": "Homērus",
+    "genitive": "Homērī",
+    "declension": "2",
+    "gender": "m",
+    "defs": [
+      "Homer"
+    ]
+  },
+  {
+    "nominative": "Ītalia",
+    "genitive": "Ītaliae",
+    "declension": "1",
+    "gender": "f",
+    "defs": [
+      "Italy"
+    ]
+  },
+  {
+    "nominative": "Iūlia",
+    "genitive": "Iūliae",
+    "declension": "1",
+    "gender": "f",
+    "defs": [
+      "Julia",
+      "Iulia"
+    ]
+  },
+  {
+    "nominative": "Lāvīnia",
+    "genitive": "Lāvīniae",
+    "declension": "1",
+    "gender": "f",
+    "defs": [
+      "Lavinia"
+    ]
+  },
+  {
+    "nominative": "Mārcus",
+    "genitive": "Mārcī",
+    "declension": "2",
+    "gender": "m",
+    "defs": [
+      "Marcus",
+      "Mark"
+    ]
+  },
+  {
+    "nominative": "Mārtius",
+    "genitive": "Mārtiī",
+    "declension": "2",
+    "gender": "m",
+    "defs": [
+      "Martius",
+      "Martin"
+    ]
+  },
+  {
+    "nominative": "Numa",
+    "genitive": "Numae",
+    "declension": "1",
+    "gender": "m",
+    "defs": [
+      "Numa"
+    ]
+  },
+  {
+    "nominative": "Phīdippus",
+    "genitive": "Phīdippī",
+    "declension": "2",
+    "gender": "m",
+    "defs": [
+      "Phidippus"
+    ]
+  },
+  {
+    "nominative": "Pompilius",
+    "genitive": "Pompiliī",
+    "declension": "2",
+    "gender": "m",
+    "defs": [
+      "Pompilius"
+    ]
+  },
+  {
+    "nominative": "Ricardus",
+    "genitive": "Ricardī",
+    "declension": "2",
+    "gender": "m",
+    "defs": [
+      "Richard"
+    ]
+  },
+  {
+    "nominative": "Rōma",
+    "genitive": "Rōmae",
+    "declension": "1",
+    "gender": "f",
+    "defs": [
+      "Rome"
+    ]
+  },
+  {
+    "nominative": "Sicilia",
+    "genitive": "Siciliae",
+    "declension": "1",
+    "gender": "f",
+    "defs": [
+      "Sicily"
+    ]
+  },
+  {
+    "nominative": "Tacitus",
+    "genitive": "Tacitī",
+    "declension": "2",
+    "gender": "m",
+    "defs": [
+      "Tacitus"
+    ]
+  },
+  {
+    "nominative": "Titus",
+    "genitive": "Titī",
+    "declension": "2",
+    "gender": "m",
+    "defs": [
+      "Titus"
+    ]
+  },
+  {
+    "nominative": "Tullia",
+    "genitive": "Tulliae",
+    "declension": "1",
+    "gender": "f",
+    "defs": [
+      "Tullia"
+    ]
+  },
+  {
+    "nominative": "Vergilius",
+    "genitive": "Vergiliī",
+    "declension": "2",
+    "gender": "m",
+    "defs": [
+      "Vergil"
+    ]
+  },
+  {
+    "nominative": "Vesta",
+    "genitive": "Vestae",
+    "declension": "1",
+    "gender": "f",
+    "defs": [
+      "Vesta"
+    ]
+  },
+  {
+    "nominative": "Vīctōria",
+    "genitive": "Vīctōriae",
+    "declension": "1",
+    "gender": "f",
+    "defs": [
+      "Victoria"
+    ]
+  },
+  {
+    "nominative": "Virgīnia",
+    "genitive": "Virgīniae",
+    "declension": "1",
+    "gender": "f",
+    "defs": [
+      "Virginia"
+    ]
+  }
+]

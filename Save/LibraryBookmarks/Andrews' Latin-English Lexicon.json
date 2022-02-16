@@ -1,0 +1,642 @@
+{
+  "path": "root",
+  "name": "root",
+  "folders": [
+    {
+      "path": "root/Adjectives",
+      "name": "Adjectives",
+      "folders": [
+        {
+          "path": "root/Adjectives/F",
+          "name": "F",
+          "folders": [],
+          "files": [
+            {
+              "name": "fīdus",
+              "x": -7,
+              "y": -1499,
+              "z": 0.95,
+              "r": 0,
+              "page": 650
+            }
+          ]
+        },
+        {
+          "path": "root/Adjectives/L",
+          "name": "L",
+          "folders": [],
+          "files": [
+            {
+              "name": "līber",
+              "x": 686,
+              "y": 81,
+              "z": 0.95,
+              "r": 0,
+              "page": 909
+            }
+          ]
+        },
+        {
+          "path": "root/Adjectives/P",
+          "name": "P",
+          "folders": [],
+          "files": [
+            {
+              "name": "pulcher, chra, chrum",
+              "x": 107,
+              "y": -651,
+              "z": 0.95,
+              "r": 0,
+              "page": 1267
+            }
+          ]
+        },
+        {
+          "path": "root/Adjectives/R",
+          "name": "R",
+          "folders": [],
+          "files": [
+            {
+              "name": "ruber, rubra, rubrum",
+              "x": 527,
+              "y": 143,
+              "z": 0.95,
+              "r": 0,
+              "page": 1364
+            }
+          ]
+        }
+      ],
+      "files": []
+    },
+    {
+      "path": "root/Nouns",
+      "name": "Nouns",
+      "folders": [
+        {
+          "path": "root/Nouns/A",
+          "name": "A",
+          "folders": [],
+          "files": [
+            {
+              "name": "agricola",
+              "x": 636,
+              "y": 438,
+              "z": 0.95,
+              "r": 0,
+              "page": 100
+            },
+            {
+              "name": "āla",
+              "x": 658,
+              "y": -206,
+              "z": 0.95,
+              "r": 0,
+              "page": 101
+            },
+            {
+              "name": "amīcus",
+              "x": 52,
+              "y": -782,
+              "z": 0.95,
+              "r": 0,
+              "page": 124
+            },
+            {
+              "name": "aqua",
+              "x": 616,
+              "y": -913,
+              "z": 0.95,
+              "r": 0,
+              "page": 156
+            }
+          ]
+        },
+        {
+          "path": "root/Nouns/C",
+          "name": "C",
+          "folders": [],
+          "files": [
+            {
+              "name": "causa",
+              "x": 696,
+              "y": -80,
+              "z": 0.95,
+              "r": 0,
+              "page": 283
+            },
+            {
+              "name": "consul",
+              "x": -458,
+              "y": -373,
+              "z": 0.95,
+              "r": 0,
+              "page": 393
+            },
+            {
+              "name": "corōna",
+              "x": -483,
+              "y": -465,
+              "z": 0.95,
+              "r": 0,
+              "page": 414
+            }
+          ]
+        },
+        {
+          "path": "root/Nouns/D",
+          "name": "D",
+          "folders": [],
+          "files": [
+            {
+              "name": "dīligentia",
+              "x": -314,
+              "y": 403,
+              "z": 0.95,
+              "r": 0,
+              "page": 503
+            },
+            {
+              "name": "dominus",
+              "x": 188,
+              "y": -930,
+              "z": 0.95,
+              "r": 0,
+              "page": 529
+            },
+            {
+              "name": "dōnum",
+              "x": -307,
+              "y": 154,
+              "z": 0.95,
+              "r": 0,
+              "page": 531
+            },
+            {
+              "name": "dux",
+              "x": 730,
+              "y": -273,
+              "z": 0.95,
+              "r": 0,
+              "page": 541
+            }
+          ]
+        },
+        {
+          "path": "root/Nouns/E",
+          "name": "E",
+          "folders": [],
+          "files": [
+            {
+              "name": "epistola",
+              "x": 628,
+              "y": 155,
+              "z": 0.95,
+              "r": 0,
+              "page": 566
+            }
+          ]
+        },
+        {
+          "path": "root/Nouns/F",
+          "name": "F",
+          "folders": [],
+          "files": [
+            {
+              "name": "fābula",
+              "x": 26,
+              "y": 535,
+              "z": 0.95,
+              "r": 0,
+              "page": 620
+            },
+            {
+              "name": "fīlia",
+              "x": -321,
+              "y": -655,
+              "z": 0.95,
+              "r": 0,
+              "page": 651
+            },
+            {
+              "name": "fortūna",
+              "x": 139,
+              "y": -1013,
+              "z": 0.95,
+              "r": 0,
+              "page": 673
+            }
+          ]
+        },
+        {
+          "path": "root/Nouns/G",
+          "name": "G",
+          "folders": [],
+          "files": [
+            {
+              "name": "gener",
+              "x": 527,
+              "y": 277,
+              "z": 0.95,
+              "r": 0,
+              "page": 704
+            },
+            {
+              "name": "genus",
+              "x": 153,
+              "y": 943,
+              "z": 0.95,
+              "r": 0,
+              "page": 707
+            }
+          ]
+        },
+        {
+          "path": "root/Nouns/I",
+          "name": "I",
+          "folders": [],
+          "files": [
+            {
+              "name": "incola",
+              "x": -480,
+              "y": -314,
+              "z": 0.95,
+              "r": 0,
+              "page": 808
+            }
+          ]
+        },
+        {
+          "path": "root/Nouns/L",
+          "name": "L",
+          "folders": [],
+          "files": [
+            {
+              "name": "leo",
+              "x": 553,
+              "y": -605,
+              "z": 0.95,
+              "r": 0,
+              "page": 904
+            },
+            {
+              "name": "lūdus",
+              "x": 709,
+              "y": 449,
+              "z": 0.95,
+              "r": 0,
+              "page": 931
+            }
+          ]
+        },
+        {
+          "path": "root/Nouns/M",
+          "name": "M",
+          "folders": [],
+          "files": [
+            {
+              "name": "medicus",
+              "x": -339,
+              "y": -125,
+              "z": 0.95,
+              "r": 0,
+              "page": 963
+            },
+            {
+              "name": "mensa",
+              "x": 697,
+              "y": -18,
+              "z": 0.95,
+              "r": 0,
+              "page": 971
+            }
+          ]
+        },
+        {
+          "path": "root/Nouns/N",
+          "name": "N",
+          "folders": [],
+          "files": [
+            {
+              "name": "nauta",
+              "x": 207,
+              "y": -163,
+              "z": 0.95,
+              "r": 0,
+              "page": 1017
+            },
+            {
+              "name": "nāvita [and] nauta",
+              "x": 41,
+              "y": -975,
+              "z": 0.95,
+              "r": 0,
+              "page": 1018
+            }
+          ]
+        },
+        {
+          "path": "root/Nouns/O",
+          "name": "O",
+          "folders": [],
+          "files": [
+            {
+              "name": "oppidum",
+              "x": 572,
+              "y": 912,
+              "z": 0.95,
+              "r": 0,
+              "page": 1084
+            }
+          ]
+        },
+        {
+          "path": "root/Nouns/P",
+          "name": "P",
+          "folders": [],
+          "files": [
+            {
+              "name": "passer",
+              "x": 151,
+              "y": -76,
+              "z": 0.95,
+              "r": 0,
+              "page": 1117
+            },
+            {
+              "name": "pater",
+              "x": 689,
+              "y": -419,
+              "z": 0.95,
+              "r": 0,
+              "page": 1119
+            },
+            {
+              "name": "patria",
+              "x": 20,
+              "y": 811,
+              "z": 0.95,
+              "r": 0,
+              "page": 1120
+            },
+            {
+              "name": "patrius",
+              "x": -496,
+              "y": -49,
+              "z": 0.95,
+              "r": 0,
+              "page": 1120
+            },
+            {
+              "name": "perīculum",
+              "x": 153,
+              "y": -233,
+              "z": 0.95,
+              "r": 0,
+              "page": 1145
+            },
+            {
+              "name": "pirum",
+              "x": 585,
+              "y": 1057,
+              "z": 0.95,
+              "r": 0,
+              "page": 1176
+            },
+            {
+              "name": "poēta",
+              "x": 584,
+              "y": 1043,
+              "z": 0.95,
+              "r": 0,
+              "page": 1186
+            },
+            {
+              "name": "praemium",
+              "x": 730,
+              "y": -1269,
+              "z": 0.95,
+              "r": 0,
+              "page": 1213
+            },
+            {
+              "name": "puella",
+              "x": -341,
+              "y": -740,
+              "z": 0.95,
+              "r": 0,
+              "page": 1265
+            },
+            {
+              "name": "puer",
+              "x": 577,
+              "y": 165,
+              "z": 0.95,
+              "r": 0,
+              "page": 1266
+            }
+          ]
+        },
+        {
+          "path": "root/Nouns/R",
+          "name": "R",
+          "folders": [],
+          "files": [
+            {
+              "name": "rēgīna",
+              "x": 45,
+              "y": -907,
+              "z": 0.95,
+              "r": 0,
+              "page": 1318
+            }
+          ]
+        },
+        {
+          "path": "root/Nouns/S",
+          "name": "S",
+          "folders": [],
+          "files": [
+            {
+              "name": "servus",
+              "x": 563,
+              "y": 58,
+              "z": 0.95,
+              "r": 0,
+              "page": 1436
+            },
+            {
+              "name": "socer",
+              "x": 720,
+              "y": -445,
+              "z": 0.95,
+              "r": 0,
+              "page": 1459
+            },
+            {
+              "name": "soror",
+              "x": -354,
+              "y": 675,
+              "z": 0.95,
+              "r": 0,
+              "page": 1469
+            }
+          ]
+        },
+        {
+          "path": "root/Nouns/T",
+          "name": "T",
+          "folders": [],
+          "files": [
+            {
+              "name": "templum",
+              "x": 621,
+              "y": 711,
+              "z": 0.95,
+              "r": 0,
+              "page": 1556
+            }
+          ]
+        },
+        {
+          "path": "root/Nouns/V",
+          "name": "V",
+          "folders": [],
+          "files": [
+            {
+              "name": "via",
+              "x": 167,
+              "y": -244,
+              "z": 0.95,
+              "r": 0,
+              "page": 1657
+            },
+            {
+              "name": "vir",
+              "x": 610,
+              "y": 847,
+              "z": 0.95,
+              "r": 0,
+              "page": 1666
+            },
+            {
+              "name": "virgo",
+              "x": -449,
+              "y": -1064,
+              "z": 0.95,
+              "r": 0,
+              "page": 1666
+            }
+          ]
+        }
+      ],
+      "files": []
+    },
+    {
+      "path": "root/Proper Nouns",
+      "name": "Proper Nouns",
+      "folders": [
+        {
+          "path": "root/Proper Nouns/G",
+          "name": "G",
+          "folders": [],
+          "files": [
+            {
+              "name": "Graeci",
+              "x": 591,
+              "y": -257,
+              "z": 0.95,
+              "r": 0,
+              "page": 718
+            },
+            {
+              "name": "Graecia",
+              "x": 58,
+              "y": -127,
+              "z": 0.95,
+              "r": 0,
+              "page": 718
+            }
+          ]
+        },
+        {
+          "path": "root/Proper Nouns/I",
+          "name": "I",
+          "folders": [],
+          "files": [
+            {
+              "name": "Ītalia",
+              "x": -465,
+              "y": 974,
+              "z": 0.95,
+              "r": 0,
+              "page": 872
+            }
+          ]
+        },
+        {
+          "path": "root/Proper Nouns/R",
+          "name": "R",
+          "folders": [],
+          "files": [
+            {
+              "name": "Rōma",
+              "x": -315,
+              "y": -419,
+              "z": 0.95,
+              "r": 0,
+              "page": 1361
+            }
+          ]
+        }
+      ],
+      "files": []
+    },
+    {
+      "path": "root/Verbs",
+      "name": "Verbs",
+      "folders": [
+        {
+          "path": "root/Verbs/A",
+          "name": "A",
+          "folders": [],
+          "files": [
+            {
+              "name": "ambulo",
+              "x": -428,
+              "y": -1556,
+              "z": 0.95,
+              "r": 0,
+              "page": 122
+            },
+            {
+              "name": "amo",
+              "x": 120,
+              "y": -1356,
+              "z": 0.95,
+              "r": 0,
+              "page": 125
+            }
+          ]
+        },
+        {
+          "path": "root/Verbs/T",
+          "name": "T",
+          "folders": [],
+          "files": [
+            {
+              "name": "termino",
+              "x": -346,
+              "y": 720,
+              "z": 0.95,
+              "r": 0,
+              "page": 1563
+            }
+          ]
+        }
+      ],
+      "files": []
+    }
+  ],
+  "files": []
+}

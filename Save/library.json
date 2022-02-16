@@ -1,0 +1,175 @@
+{
+  "openBook": "Cervera Bible Ver. 2",
+  "currCatalog": "language",
+  "catalogView": "Catalog",
+  "contentView": "Contents",
+  "openedBooks": [
+    "Biblia Sacra 1914",
+    "Hexaglot Bible 1906 Vol. 1",
+    "Cervera Bible Ver. 1",
+    "KJV 1872-1888 Vol. 01",
+    "Brenton's Greek OT",
+    "Cervera Bible Ver. 2"
+  ],
+  "KJV 1872-1888 Vol. 13": {
+    "page": 100,
+    "x": 33,
+    "y": 387,
+    "z": 0.55,
+    "r": 0
+  },
+  "Hexaglot Bible 1906 Vol. 1": {
+    "page": 661,
+    "x": 101,
+    "y": -36,
+    "z": 0.3,
+    "r": 0
+  },
+  "Hexaglot Bible 1906 Vol. 2": {
+    "page": 9,
+    "x": 64,
+    "y": -83,
+    "z": 0.3,
+    "r": 0
+  },
+  "Hexaglot Bible 1906 Vol. 3": {
+    "page": 396,
+    "x": 2,
+    "y": 12,
+    "z": 0.3,
+    "r": 0
+  },
+  "Hexaglot Bible 1906 Vol. 4": {
+    "page": 654,
+    "x": 0,
+    "y": 0,
+    "z": 0.3,
+    "r": 0
+  },
+  "Hexaglot Bible 1906 Vol. 5": {
+    "page": 429,
+    "x": -21,
+    "y": 31,
+    "z": 0.75,
+    "r": 0
+  },
+  "Hexaglot Bible 1906 Vol. 6": {
+    "page": 674,
+    "x": 334,
+    "y": -605,
+    "z": 1.3,
+    "r": 0
+  },
+  "KJV 1872-1888 Vol. 07": {
+    "page": 400,
+    "x": 116,
+    "y": 293,
+    "z": 0.45,
+    "r": 0
+  },
+  "Biblia Sacra 1914": {
+    "page": 180,
+    "x": 79,
+    "y": -331,
+    "z": 0.7,
+    "r": 0
+  },
+  "Cervera Bible Ver. 1": {
+    "page": 645,
+    "x": -54,
+    "y": 235,
+    "z": 0.5,
+    "r": 0
+  },
+  "Cervera Bible Ver. 2": {
+    "page": 21,
+    "x": -280,
+    "y": 590,
+    "z": 0.65,
+    "r": 0
+  },
+  "Alford's Greek NT Vol. 1 (7th Edit.)": {
+    "page": 1,
+    "x": 2,
+    "y": 744,
+    "z": 0.6,
+    "r": 0
+  },
+  "Alford's Greek NT Vol. 2 (7th Edit.)": {
+    "page": 1,
+    "x": 63,
+    "y": 106,
+    "z": 0.3,
+    "r": 0
+  },
+  "Alford's Greek NT Vol. 3 (5th Edit.)": {
+    "page": 511,
+    "x": 35,
+    "y": 691,
+    "z": 0.6,
+    "r": 0
+  },
+  "Alford's Greek NT Vol. 4 (5th Edit.)": {
+    "page": 1,
+    "x": 27,
+    "y": 835,
+    "z": 0.65,
+    "r": 0
+  },
+  "KJV 1872-1888 Vol. 08": {
+    "page": 1,
+    "x": -21,
+    "y": -50,
+    "z": 0.3,
+    "r": 0
+  },
+  "Andrews' Latin-English": {
+    "page": 123,
+    "x": 635,
+    "y": 996,
+    "z": 0.85,
+    "r": 0
+  },
+  "Andrews' Latin-English Lexicon": {
+    "page": 750,
+    "x": -24,
+    "y": -1266,
+    "z": 0.95,
+    "r": 0
+  },
+  "KJV 1872-1888 Vol. 09": {
+    "page": 100,
+    "x": 21,
+    "y": -52,
+    "z": 0.3,
+    "r": 0
+  },
+  "KJV 1872-1888 Vol. 10": {
+    "page": 1,
+    "x": 1,
+    "y": -159,
+    "z": 0.3,
+    "r": 0
+  },
+  "KJV 1872-1888 Vol. 11": {
+    "page": 1,
+    "x": 20,
+    "y": 379,
+    "z": 0.55,
+    "r": 0
+  },
+  "Brenton's Greek OT": {
+    "page": 262,
+    "x": -209,
+    "y": 686,
+    "z": 0.35,
+    "r": 0
+  },
+  "KJV 1872-1888 Vol. 01": {
+    "page": 867,
+    "x": 52,
+    "y": 395,
+    "z": 0.35,
+    "r": 0
+  }
+}

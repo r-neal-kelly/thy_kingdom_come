@@ -1,0 +1,156 @@
+{
+  "Biblia Sacra 1914": {
+    "title": "Biblia Sacra Vulgatæ Editionis Sixti V Pont. Max. Iussu Recognita et Clementis VIII Acutoritate Edita - Ex Tribus Editionibus Clementinis Critice Descripsit, Dispositionibus Logicis et Notis Exegeticis Illustravit, Appendice Lectionum Hebraicarum et Græcarum Auxit P. Michael Hetzenauer Ord. Min. Cap. Professor Exegesis in Universitate Pntificii Seminarii Romani",
+    "category": "Scripture",
+    "language": "Latin",
+    "creator": "P. Michael Hetzenauer",
+    "year": "1914"
+  },
+  "KJV 1872-1888 Vol. 01": {
+    "title": "The Holy Bible According to the Authorized Version (A.D. 1611), with an Explanatory and Critical Commentary and A Revision of the Translation, By Bishops and Other Clergy of the Anglican Church. Edited by F. C. Cook, M.A., Canon of Exeter. Vol. I. - Part I. Genesis - Exodus",
+    "category": "Scripture",
+    "language": "English",
+    "creator": "F. C. Cook",
+    "year": "1873"
+  },
+  "KJV 1872-1888 Vol. 07": {
+    "title": "The Holy Bible According to the Authorized Version (A.D. 1611), with an Explanatory and Critical Commentary and A Revision of the Translation, By Bishops and Other Clergy of the Anglican Church. Edited by F. C. Cook, M.A., Canon of Exeter, Preacher at Lincoln's Inn, Chaplain in Ordinary to the Queen. Vol. VI. Ezekiel - Daniel - and the Minor Prophets.",
+    "category": "Scripture",
+    "language": "English",
+    "creator": "F. C. Cook",
+    "year": "1876"
+  },
+  "KJV 1872-1888 Vol. 08": {
+    "title": "The Holy Bible According to the Authorized Version (A.D. 1611), with an Explanatory and Critical Commentary and A Revision of the Translation, By Bishops and Other Clergy of the Anglican Church. Edited by F. C. Cook, M.A., Canon of Exeter, Preacher at Lincoln's Inn, Chaplain in Ordinary to the Queen. New Testament. Vol. I. St. Matthew - St. Mark - St. Luke.",
+    "category": "Scripture",
+    "language": "English",
+    "creator": "F. C. Cook",
+    "year": "1878"
+  },
+  "KJV 1872-1888 Vol. 09": {
+    "title": "The Holy Bible According to the Authorized Version (A.D. 1611), with an Explanatory and Critical Commentary and A Revision of the Translation, By Bishops and Other Clergy of the Anglican Church. Edited by F. C. Cook, M.A., Canon of Exeter, Preacher at Lincoln's Inn, Chaplain in Ordinary to the Queen. New Testament. Vol. II. St. John - The Acts of the Apostles.",
+    "category": "Scripture",
+    "language": "English",
+    "creator": "F. C. Cook",
+    "year": "1880"
+  },
+  "KJV 1872-1888 Vol. 10": {
+    "title": "The Holy Bible According to the Authorized Version (A.D. 1611), with an Explanatory and Critical Commentary and A Revision of the Translation, By Bishops and Other Clergy of the Anglican Church. Edited by F. C. Cook, M.A., Canon of Exeter, Late Preacher at Lincoln's Inn, Chaplain in Ordinary to the Queen. New Testament. Vol. III. Romans to Philemon.",
+    "category": "Scripture",
+    "language": "English",
+    "creator": "F. C. Cook",
+    "year": "1881"
+  },
+  "KJV 1872-1888 Vol. 11": {
+    "title": "The Holy Bible According to the Authorized Version (A.D. 1611), with an Explanatory and Critical Commentary and A Revision of the Translation, By Bishops and Other Clergy of the Anglican Church. Edited by F. C. Cook, M.A., Canon of Exeter, Late Preacher at Lincoln's Inn, Chaplain in Ordinary to the Queen. New Testament. Vol. IV. Hebrews - The Revelation of St. John.",
+    "category": "Scripture",
+    "language": "English",
+    "creator": "F. C. Cook",
+    "year": "1881"
+  },
+  "KJV 1872-1888 Vol. 13": {
+    "title": "The Holy Bible According to the Authorized Version (A.D. 1611). With an Explanatory and Critical Commentary and A Revision of the Translation, by Clergy of the Anglican Church. - Apocrypha. - Edited by Henry Wace, D.D., Prebendary of St. Paul's; Principal of King's College, London; Preacher of Lincoln's Inn; Honorary Chaplain to the Queen; Chaplain to the Archbishop of Canterbury. - In Two Volumes. - Vol. II.",
+    "category": "Scripture",
+    "language": "English",
+    "creator": "Henry Wace",
+    "year": "1888"
+  },
+  "Hexaglot Bible 1906 Vol. 1": {
+    "title": "The Hexaglot Bible; Comprising the Holy Scriptures of the Old and New Testaments in the Original Tongues; Together with the Septuagint, the Syriac (of the New Testament), the Vulgate, the Authorized English, and German, and the Most Approved French Versions; Arranged in Parallel Columns. (The Masoretic Notes are appended to each Volume of the Old Testament.) Edited by the Rev. Edward Riches de Levante, A.M., Ph.D., Assisted by Competent Biblical Scholars. In Six Volumes. Vol. I. - The Pentateuch.",
+    "category": "Scripture",
+    "language": "Various",
+    "creator": "Edward Riches de Levante",
+    "year": "1906"
+  },
+  "Hexaglot Bible 1906 Vol. 2": {
+    "title": "The Hexaglot Bible; Comprising the Holy Scriptures of the Old and New Testaments in the Original Tongues; Together with the Septuagint, the Syriac (of the New Testament), the Vulgate, the Authorized English, and German, and the Most Approved French Versions; Arranged in Parallel Columns. (The Masoretic Notes are appended to each Volume of the Old Testament.) Edited by the Rev. Edward Riches de Levante, A.M., Ph.D., Assisted by Competent Biblical Scholars. In Six Volumes. Vol. II. - Joshua-II Kings.",
+    "category": "Scripture",
+    "language": "Various",
+    "creator": "Edward Riches de Levante",
+    "year": "1906"
+  },
+  "Hexaglot Bible 1906 Vol. 3": {
+    "title": "The Hexaglot Bible; Comprising the Holy Scriptures of the Old and New Testaments in the Original Tongues; Together with the Septuagint, the Syriac (of the New Testament), the Vulgate, the Authorized English, and German, and the Most Approved French Versions; Arranged in Parallel Columns. (The Masoretic Notes are appended to each Volume of the Old Testament.) Edited by the Rev. Edward Riches de Levante, A.M., Ph.D., Assisted by Competent Biblical Scholars. In Six Volumes. Vol. III. - I Chronicles-Song of Solomon.",
+    "category": "Scripture",
+    "language": "Various",
+    "creator": "Edward Riches de Levante",
+    "year": "1906"
+  },
+  "Hexaglot Bible 1906 Vol. 4": {
+    "title": "The Hexaglot Bible; Comprising the Holy Scriptures of the Old and New Testaments in the Original Tongues; Together with the Septuagint, the Syriac (of the New Testament), the Vulgate, the Authorized English, and German, and the Most Approved French Versions; Arranged in Parallel Columns. (The Masoretic Notes are appended to each Volume of the Old Testament.) Edited by the Rev. Edward Riches de Levante, A.M., Ph.D., Assisted by Competent Biblical Scholars. In Six Volumes. Vol. IV. - Isaiah-Malachi.",
+    "category": "Scripture",
+    "language": "Various",
+    "creator": "Edward Riches de Levante",
+    "year": "1906"
+  },
+  "Hexaglot Bible 1906 Vol. 5": {
+    "title": "The Hexaglot Bible; Comprising the Holy Scriptures of the Old and New Testaments in the Original Tongues; Together with the Septuagint, the Syriac (of the New Testament), the Vulgate, the Authorized English, and German, and the Most Approved French Versions; Arranged in Parallel Columns. (The Masoretic Notes are appended to each Volume of the Old Testament.) Edited by the Rev. Edward Riches de Levante, A.M., Ph.D., Assisted by Competent Biblical Scholars. In Six Volumes. Vol. V. - The Gospels.",
+    "category": "Scripture",
+    "language": "Various",
+    "creator": "Edward Riches de Levante",
+    "year": "1906"
+  },
+  "Hexaglot Bible 1906 Vol. 6": {
+    "title": "The Hexaglot Bible; Comprising the Holy Scriptures of the Old and New Testaments in the Original Tongues; Together with the Septuagint, the Syriac (of the New Testament), the Vulgate, the Authorized English, and German, and the Most Approved French Versions; Arranged in Parallel Columns. (The Masoretic Notes are appended to each Volume of the Old Testament.) Edited by the Rev. Edward Riches de Levante, A.M., Ph.D., Assisted by Competent Biblical Scholars. In Six Volumes. Vol. VI. - The Acts of the Apostles-Revelation.",
+    "category": "Scripture",
+    "language": "Various",
+    "creator": "Edward Riches de Levante",
+    "year": "1906"
+  },
+  "Cervera Bible Ver. 1": {
+    "title": "(to be added)",
+    "category": "Scripture",
+    "language": "Hebrew",
+    "creator": "David Kimhi",
+    "year": "1235"
+  },
+  "Cervera Bible Ver. 2": {
+    "title": "(to be added)",
+    "category": "Scripture",
+    "language": "Hebrew",
+    "creator": "David Kimhi",
+    "year": "1235"
+  },
+  "Alford's Greek NT Vol. 1 (7th Edit.)": {
+    "title": "The Greek Testament: With a Critically Revised Text: A Digest of Various Readings: Marginal References to Verbal and Idiomatic Usage: Prolegomena: And a Critical and Exegetical Commentary. For the Use of Theological Students and Ministers. By Henry Alford, D.D., Late Dean of Canterbury. In Four Volumes. Vol. I. Containing The Four Gospels. New Edition.",
+    "category": "Scripture",
+    "language": "Greek",
+    "creator": "Henry Alford",
+    "year": "1898"
+  },
+  "Alford's Greek NT Vol. 2 (7th Edit.)": {
+    "title": "The Greek Testament: With a Critically Revised Text: A Digest of Various Readings: Marginal References to Verbal and Idiomatic Usage: Prolegomena: And a Critical and Exegetical Commentary. For the Use of Theological Students and Ministers. By Henry Alford, D.D., Late Dean of Canterbury. In Four Volumes. Vol. II. Containing The Acts of the Apostles, The Epistles to the Romans and Corinthians. New Impression.",
+    "category": "Scripture",
+    "language": "Greek",
+    "creator": "Henry Alford",
+    "year": "1899"
+  },
+  "Alford's Greek NT Vol. 3 (5th Edit.)": {
+    "title": "The Greek Testament: With a Critically Revised Text: A Digest of Various Readings: Marginal References to Verbal and Idiomatic Usage: Prolegomena: And a Critical and Exegetical Commentary. For the Use of Theological Students and Ministers. By Henry Alford, D.D., Late Dean of Canterbury. In Four Volumes. Vol. III. Containing The Epistles to the Galatians, Ephesians, Philippians, Colossians, Thessalonians, - To Timotheus, Titus, and Philemon. Fifth Edition.",
+    "category": "Scripture",
+    "language": "Greek",
+    "creator": "Henry Alford",
+    "year": "1871"
+  },
+  "Alford's Greek NT Vol. 4 (5th Edit.)": {
+    "title": "The Greek Testament: With a Critically Revised Text: A Digest of Various Readings: Marginal References to Verbal and Idiomatic Usage: Prolegomena: And a Critical and Exegetical Commentary. For the Use of Theological Students and Ministers. By Henry Alford, D.D., Late Dean of Canterbury. In Four Volumes. Vol. IV. Containing The Epistle to the Hebrews: The Catholic Epistles of St. James and St. Peter: The Epistles of St. John and St. Jude: and the Revelation. New Impression.",
+    "category": "Scripture",
+    "language": "Greek",
+    "creator": "Henry Alford",
+    "year": "1903"
+  },
+  "Brenton's Greek OT": {
+    "title": "The Septuagint Version of the Old Testament and Apocrypha with an English Translation and with Various Readings and Critical Notes",
+    "category": "Scripture",
+    "language": "Greek",
+    "creator": "Lancelot Charles Lee Brenton",
+    "year": "1879 - 1900"
+  },
+  "Andrews' Latin-English Lexicon": {
+    "title": "A Copious and Critical Latin-English Lexicon, Founded on the Larger Latin-German Lexicon of Dr. William Freund: With Additions and Corrections from the Lexicons of Gesner, Facciolati, Scheller, Geroges, etc., By E. A. Andrews, L L. D.",
+    "category": "Lexicons",
+    "language": "Latin",
+    "creator": "E. A. Andrews",
+    "year": "1857"
+  }
+}
