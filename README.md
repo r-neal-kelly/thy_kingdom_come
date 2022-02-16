@@ -22,7 +22,7 @@ electron .
     ```
         Mary.library()
     ```
-    - The text input and error checker was used to transcribe material as found in the library module into the application for use with the scriptural modules accessible in the layout module. It takes advantage of various different libraries that were built from scratch for the various languages in use with this application, including English, Hebrew, Greek, and Latin:
+    - The text input and error checker was used to transcribe material as found in the library module into the application for use with the scriptural modules accessible in the layout module. It takes advantage of various different dictionaries that were built from scratch for the various languages in use with this application, including English, Hebrew, Greek, and Latin:
     ```
         Mary.errorCheck()
     ```
