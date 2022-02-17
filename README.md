@@ -1,5 +1,5 @@
 # Thy Kingdom Come
-An old project written in JavaScript, NodeJS, Electron, and a good amount of AutoHotkey, primarily for Windows. Development began sometime in early 2017 and ended in late 2018. It's a passion project that was used to further enhance my study of the Bible in multiple languages, including English, Hebrew, Greek, and Latin. It remains one of the largest applications in scope I've ever designed.
+An old project written in JavaScript, NodeJS, Electron, and a good amount of AutoHotkey, primarily for Windows. This is an Electron version of a project I started developing in late 2015/early 2016, and development on this particular iteration began sometime in early 2017 and ended in late 2018. It's a passion project that was used to further enhance my study of the Bible in multiple languages, including English, Hebrew, Greek, and Latin. It remains one of the largest applications in scope I've ever designed.
 
 ## How to Use
 This program was still in the alpha stage when development was stopped. The full user interface was never fully developed, however there are fully fledged modules which you can access from the application's console.
