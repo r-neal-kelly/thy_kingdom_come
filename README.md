@@ -2,7 +2,7 @@
 An old project written in JavaScript, NodeJS, Electron, and a good amount of AutoHotkey, primarily for Windows. This is an Electron version of a project I started developing in late 2015/early 2016, and development on this particular iteration began sometime in early 2017 and ended in late 2018. It's a passion project that was used to further enhance my study of the Bible in multiple languages, including English, Hebrew, Greek, and Latin. It remains one of the largest applications in scope I've ever designed.
 
 ## How to Use
-This program was still in the alpha stage when development was stopped. The full user interface was never fully developed, however there are fully fledged modules which you can access from the application's console.
+This program was still in the alpha stage when development was put on hold. The full user interface was never fully developed, however there are fully fledged modules which you can access from the application's console.
 - [NodeJS](https://nodejs.org/) is required. The latest versions seem to work perfectly well.
 - Double click on the "run.ps1" file. It will install Electron 3.0.0 locally if it doesn't already exist and then it will execute the program.
 - You will be greeted by a chromium instance with its console developer tools open. Inside the developer tools window, open the console and you will find the global object called "Mary":
@@ -10,11 +10,11 @@ This program was still in the alpha stage when development was stopped. The full
     ```
         Mary.layout()
     ```
-    - The library module requires that you download all of the images in the release section of the GitHub page. You will find an interactive image viewer that was used to transcribe scriptural material into a digital medium. It contains the ability to read many different books through use of the catalog and the ability to bookmark pages:
+    - The library module requires that you download all of the images in the release section of the GitHub page. You will find an interactive image viewer that was used to transcribe scriptural material into a digital format. It contains the ability to read many different books through use of the catalog. There is also the ability to bookmark pages:
     ```
         Mary.library()
     ```
-    - The text input and error checker was used to transcribe material as found in the library module into the application for use with the scriptural modules accessible in the layout module. It takes advantage of various different dictionaries that were built from scratch for the various languages in use with this application, including English, Hebrew, Greek, and Latin:
+    - The text input and error checker was used to transcribe material as found in the library module for use with the scriptural modules, accessible in the layout. It takes advantage of various different dictionaries that were built from scratch for the various languages in use with this application, including English, Hebrew, Greek, and Latin. (Having any other module but the library open is incompatible with this module.):
     ```
         Mary.errorCheck()
     ```
