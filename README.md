@@ -6,7 +6,7 @@ This program was still in the alpha stage when development was put on hold. The 
 - [NodeJS](https://nodejs.org/) is required. The latest versions seem to work perfectly well.
 - Double click on the "run.ps1" file. It will install Electron 3.0.0 locally if it doesn't already exist and then it will execute the program.
 - You will be greeted by a chromium instance with its console developer tools open. Inside the developer tools window, open the console and you will find the global object called "Mary":
-    - The layout module is a simulation of a desktop and has several other modules connected through it, including a scriptural viewer, a scriptural search, a word search game, and a memory game. Use the bottom left button to open up the menu to see what's there.
+    - The layout module is a simulation of a desktop and has several other modules connected through it, including a scriptural viewer, a scriptural search, a word search game, and a memory game. Use the bottom left button to open up the menu to see what's there. (To scratch off a word in the word search, you need to click the first and last letters of a word.)
     ```
         Mary.layout()
     ```
