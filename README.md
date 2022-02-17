@@ -3,7 +3,7 @@ An old project written in JavaScript, NodeJS, Electron, and a good amount of Aut
 
 ## How to Use
 This program was still in the alpha stage when development was stopped. The full user interface was never fully developed, however there are fully fledged modules which you can access from the application's console.
-- NodeJS is required. The latest versions seem to work perfectly well.
+- [NodeJS](https://nodejs.org/) is required. The latest versions seem to work perfectly well.
 - Electron 3.0.0 is required. Some other versions may also work, but relatively new versions such as 12.0.0 and onwards certainly will not work due to the many breaking changes they introduced over the past four years.
 - Currently the only supported way of running the program is through a global install of electron, like so:
 ```
